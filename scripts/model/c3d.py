@@ -31,9 +31,15 @@ class C3D(nn.Module):
         x = self.pool4(x)
         x = self.conv6(x)
         x = self.pool5(x)
-        x = x.view(-1)
+        x = x.view(x.size(0), -1)
+        # b5.view(b5.size(0), -1)
         x = self.linear1(x)
         x = self.linear2(x)
+        return x
+
+    @torch.no_grad()
+    def predictions(self, x):
+        x = self.forward(x)
         return x
 
 

@@ -1,0 +1,367 @@
+
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:18<00:00,  1.11batch/s, loss=13.8]
+
+ 80%|████████  | 4/5 [00:03<00:00,  1.71batch/s, loss=2.73]
+Epoch 0/30 | Train Loss: 0.6900710254907608 | Val Loss: 0.6838026881217957
+100%|██████████| 5/5 [00:03<00:00,  1.36batch/s, loss=3.42]
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.16batch/s, loss=13.4]
+  0%|          | 0/5 [00:00<?, ?batch/s]
+Epoch 1/30 | Train Loss: 0.6684998095035553 | Val Loss: 0.6331766486167908
+100%|██████████| 5/5 [00:03<00:00,  1.37batch/s, loss=3.17]
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.16batch/s, loss=9.98]
+
+ 60%|██████    | 3/5 [00:03<00:01,  1.29batch/s, loss=1.22]
+Epoch 2/30 | Train Loss: 0.4992140352725983 | Val Loss: 0.38535303473472593
+100%|██████████| 5/5 [00:03<00:00,  1.37batch/s, loss=1.93]
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.15batch/s, loss=6.04]
+
+100%|██████████| 5/5 [00:03<00:00,  1.38batch/s, loss=1.41]
+Epoch 3/30 | Train Loss: 0.3022405505180359 | Val Loss: 0.2823426425457001
+Weight saved for epoch: 3
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.15batch/s, loss=4.69]
+  0%|          | 0/5 [00:00<?, ?batch/s]
+100%|██████████| 5/5 [00:03<00:00,  1.39batch/s, loss=1.09]
+  0%|          | 0/20 [00:00<?, ?batch/s]
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:16<00:00,  1.18batch/s, loss=4.13]
+
+ 60%|██████    | 3/5 [00:03<00:01,  1.26batch/s, loss=0.528]
+Epoch 5/30 | Train Loss: 0.20674147382378577 | Val Loss: 0.22000561207532882
+100%|██████████| 5/5 [00:03<00:00,  1.33batch/s, loss=1.1]
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:16<00:00,  1.18batch/s, loss=3.7]
+
+100%|██████████| 5/5 [00:03<00:00,  1.38batch/s, loss=1.15]
+Epoch 6/30 | Train Loss: 0.18496424220502378 | Val Loss: 0.23056948110461234
+Weight saved for epoch: 6
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.14batch/s, loss=3.53]
+  0%|          | 0/5 [00:00<?, ?batch/s]
+Epoch 7/30 | Train Loss: 0.1764799114316702 | Val Loss: 0.19399167001247405
+100%|██████████| 5/5 [00:03<00:00,  1.39batch/s, loss=0.97]
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.18batch/s, loss=3.25]
+
+ 80%|████████  | 4/5 [00:03<00:00,  1.77batch/s, loss=0.768]
+Epoch 8/30 | Train Loss: 0.1625172782689333 | Val Loss: 0.1745842605829239
+100%|██████████| 5/5 [00:03<00:00,  1.42batch/s, loss=0.873]
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.16batch/s, loss=3.14]
+  0%|          | 0/5 [00:00<?, ?batch/s]
+100%|██████████| 5/5 [00:03<00:00,  1.38batch/s, loss=1.22]
+  0%|          | 0/20 [00:00<?, ?batch/s]
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.16batch/s, loss=3.03]
+
+ 20%|██        | 1/5 [00:02<00:10,  2.54s/batch, loss=0.137]
+Epoch 10/30 | Train Loss: 0.15139671545475722 | Val Loss: 0.2649417191743851
+100%|██████████| 5/5 [00:03<00:00,  1.33batch/s, loss=1.32]
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.18batch/s, loss=3.07]
+
+100%|██████████| 5/5 [00:03<00:00,  1.37batch/s, loss=1.37]
+Epoch 11/30 | Train Loss: 0.15374399553984403 | Val Loss: 0.27347899675369264
+Weight saved for epoch: 11
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:16<00:00,  1.18batch/s, loss=2.8]
+
+ 20%|██        | 1/5 [00:02<00:09,  2.31s/batch, loss=0.245]
+Epoch 12/30 | Train Loss: 0.140033994987607 | Val Loss: 0.15926591902971268
+100%|██████████| 5/5 [00:03<00:00,  1.41batch/s, loss=0.796]
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.17batch/s, loss=2.48]
+
+ 80%|████████  | 4/5 [00:03<00:00,  1.65batch/s, loss=0.704]
+Epoch 13/30 | Train Loss: 0.12400719150900841 | Val Loss: 0.1577757053077221
+100%|██████████| 5/5 [00:03<00:00,  1.31batch/s, loss=0.789]
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.15batch/s, loss=2.46]
+  0%|          | 0/5 [00:00<?, ?batch/s]
+
+100%|██████████| 5/5 [00:03<00:00,  1.40batch/s, loss=0.682]
+Weight saved for epoch: 14
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.16batch/s, loss=2.78]
+
+ 20%|██        | 1/5 [00:02<00:09,  2.44s/batch, loss=0.129]
+Epoch 15/30 | Train Loss: 0.13877577073872088 | Val Loss: 0.15571960285305977
+100%|██████████| 5/5 [00:03<00:00,  1.37batch/s, loss=0.779]
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.16batch/s, loss=2.17]
+
+ 80%|████████  | 4/5 [00:03<00:00,  1.74batch/s, loss=0.823]
+Epoch 16/30 | Train Loss: 0.10845605004578829 | Val Loss: 0.17659832835197448
+100%|██████████| 5/5 [00:03<00:00,  1.39batch/s, loss=0.883]
+
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.16batch/s, loss=2.09]
+
+100%|██████████| 5/5 [00:03<00:00,  1.35batch/s, loss=0.731]
+Epoch 17/30 | Train Loss: 0.10442905146628619 | Val Loss: 0.1461050808429718
+Weight saved for epoch: 17
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.13batch/s, loss=2.36]
+
+100%|██████████| 5/5 [00:03<00:00,  1.32batch/s, loss=0.873]
+Epoch 18/30 | Train Loss: 0.11783710988238454 | Val Loss: 0.17458609044551848
+Weight saved for epoch: 18
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.17batch/s, loss=1.97]
+
+ 40%|████      | 2/5 [00:02<00:03,  1.13s/batch, loss=0.49]
+Epoch 19/30 | Train Loss: 0.09842638168483972 | Val Loss: 0.1312734480947256
+100%|██████████| 5/5 [00:03<00:00,  1.40batch/s, loss=0.656]
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.17batch/s, loss=1.99]
+
+100%|██████████| 5/5 [00:03<00:00,  1.37batch/s, loss=0.646]
+Epoch 20/30 | Train Loss: 0.09930272586643696 | Val Loss: 0.12913490310311318
+Weight saved for epoch: 20
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.17batch/s, loss=2]
+
+ 40%|████      | 2/5 [00:02<00:03,  1.15s/batch, loss=0.458]
+Epoch 21/30 | Train Loss: 0.10016651405021548 | Val Loss: 0.17890637069940568
+100%|██████████| 5/5 [00:03<00:00,  1.40batch/s, loss=0.895]
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.17batch/s, loss=2.61]
+
+ 80%|████████  | 4/5 [00:03<00:00,  1.73batch/s, loss=0.513]
+Epoch 22/30 | Train Loss: 0.13049580194056035 | Val Loss: 0.12661973163485526
+100%|██████████| 5/5 [00:03<00:00,  1.38batch/s, loss=0.633]
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.16batch/s, loss=1.99]
+  0%|          | 0/5 [00:00<?, ?batch/s]
+Epoch 23/30 | Train Loss: 0.09965712614357472 | Val Loss: 0.14484884664416314
+100%|██████████| 5/5 [00:03<00:00,  1.36batch/s, loss=0.724]
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.16batch/s, loss=2.06]
+
+ 60%|██████    | 3/5 [00:02<00:01,  1.31batch/s, loss=0.37]
+Epoch 24/30 | Train Loss: 0.1032180410809815 | Val Loss: 0.1251051716506481
+100%|██████████| 5/5 [00:03<00:00,  1.39batch/s, loss=0.626]
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.16batch/s, loss=2.07]
+  0%|          | 0/5 [00:00<?, ?batch/s]
+100%|██████████| 5/5 [00:03<00:00,  1.37batch/s, loss=0.753]
+  0%|          | 0/20 [00:00<?, ?batch/s]
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.17batch/s, loss=2.11]
+
+ 60%|██████    | 3/5 [00:02<00:01,  1.33batch/s, loss=0.379]
+Epoch 26/30 | Train Loss: 0.10548678934574127 | Val Loss: 0.14770932346582413
+100%|██████████| 5/5 [00:03<00:00,  1.40batch/s, loss=0.739]
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.17batch/s, loss=1.91]
+  0%|          | 0/5 [00:00<?, ?batch/s]
+100%|██████████| 5/5 [00:03<00:00,  1.38batch/s, loss=0.63]
+  0%|          | 0/20 [00:00<?, ?batch/s]
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.16batch/s, loss=1.85]
+
+ 60%|██████    | 3/5 [00:03<00:01,  1.29batch/s, loss=0.574]
+Epoch 28/30 | Train Loss: 0.09242595601826906 | Val Loss: 0.15001194924116135
+100%|██████████| 5/5 [00:03<00:00,  1.36batch/s, loss=0.75]
+
+
+
+
+
+
+
+100%|██████████| 20/20 [00:17<00:00,  1.17batch/s, loss=1.81]
+  0%|          | 0/5 [00:00<?, ?batch/s]
+
+100%|██████████| 5/5 [00:03<00:00,  1.39batch/s, loss=0.72]
+Weight saved for epoch: 29
+Object `torch.rand.randint` not found.
+[{"name": "C3D", "type": "type", "properties": ["T_destination", "_apply", "_call_impl", "_compiled_call_impl", "_get_backward_hooks", "_get_backward_pre_hooks", "_get_name", "_load_from_state_dict", "_maybe_warn_non_full_backward_hook", "_named_members", "_register_load_state_dict_pre_hook", "_register_state_dict_hook", "_replicate_for_data_parallel", "_save_to_state_dict", "_slow_forward", "_version", "_wrapped_call_impl", "add_module", "apply", "bfloat16", "buffers", "call_super_init", "children", "compile", "cpu", "cuda", "double", "dump_patches", "eval", "extra_repr", "float", "forward", "get_buffer", "get_extra_state", "get_parameter", "get_submodule", "half", "ipu", "load_state_dict", "modules", "named_buffers", "named_children", "named_modules", "named_parameters", "parameters", "predictions", "register_backward_hook", "register_buffer", "register_forward_hook", "register_forward_pre_hook", "register_full_backward_hook", "register_full_backward_pre_hook", "register_load_state_dict_post_hook", "register_module", "register_parameter", "register_state_dict_pre_hook", "requires_grad_", "set_extra_state", "share_memory", "state_dict", "to", "to_empty", "train", "type", "xpu", "zero_grad"], "value": "<class 'model.c3d.C3D'>", "root": "C3D", "propertyChain": [], "language": "python"}, {"name": "F", "type": "module", "properties": ["BroadcastingList1", "BroadcastingList2", "BroadcastingList3", "Callable", "DType", "GRID_SAMPLE_INTERPOLATION_MODES", "GRID_SAMPLE_PADDING_MODES", "List", "Optional", "TYPE_CHECKING", "Tensor", "Tuple", "Union", "_Reduction", "_VF", "_adaptive_max_pool1d", "_adaptive_max_pool2d", "_adaptive_max_pool3d", "_add_docstr", "_canonical_mask", "_fractional_max_pool2d", "_fractional_max_pool3d", "_get_softmax_dim", "_in_projection", "_in_projection_packed", "_infer_size", "_is_integer", "_list_with_default", "_max_pool1d", "_max_pool2d", "_max_pool3d", "_mha_shape_check", "_no_grad_embedding_renorm_", "_none_or_dtype", "_overload", "_pair", "_single", "_sym_int", "_threshold", "_triple", "_unpool_output_size", "_verify_batch_size", "_verify_spatial_size", "adaptive_avg_pool1d", "adaptive_avg_pool2d", "adaptive_avg_pool3d", "adaptive_max_pool1d", "adaptive_max_pool1d_with_indices", "adaptive_max_pool2d", "adaptive_max_pool2d_with_indices", "adaptive_max_pool3d", "adaptive_max_pool3d_with_indices", "affine_grid", "alpha_dropout", "assert_int_or_pair", "avg_pool1d", "avg_pool2d", "avg_pool3d", "batch_norm", "bilinear", "binary_cross_entropy", "binary_cross_entropy_with_logits", "boolean_dispatch", "celu", "celu_", "channel_shuffle", "conv1d", "conv2d", "conv3d", "conv_tbc", "conv_transpose1d", "conv_transpose2d", "conv_transpose3d", "cosine_embedding_loss", "cosine_similarity", "cross_entropy", "ctc_loss", "dropout", "dropout1d", "dropout2d", "dropout3d", "elu", "elu_", "embedding", "embedding_bag", "feature_alpha_dropout", "fold", "fractional_max_pool2d", "fractional_max_pool2d_with_indices", "fractional_max_pool3d", "fractional_max_pool3d_with_indices", "gaussian_nll_loss", "gelu", "glu", "grad", "grid_sample", "group_norm", "gumbel_softmax", "handle_torch_function", "hardshrink", "hardsigmoid", "hardswish", "hardtanh", "hardtanh_", "has_torch_function", "has_torch_function_unary", "has_torch_function_variadic", "hinge_embedding_loss", "huber_loss", "importlib", "instance_norm", "interpolate", "kl_div", "l1_loss", "layer_norm", "leaky_relu", "leaky_relu_", "linear", "local_response_norm", "log_softmax", "logsigmoid", "lp_pool1d", "lp_pool2d", "margin_ranking_loss", "math", "max_pool1d", "max_pool1d_with_indices", "max_pool2d", "max_pool2d_with_indices", "max_pool3d", "max_pool3d_with_indices", "max_unpool1d", "max_unpool2d", "max_unpool3d", "mish", "mse_loss", "multi_head_attention_forward", "multi_margin_loss", "multilabel_margin_loss", "multilabel_soft_margin_loss", "native_channel_shuffle", "nll_loss", "normalize", "one_hot", "pad", "pairwise_distance", "pdist", "pixel_shuffle", "pixel_unshuffle", "poisson_nll_loss", "prelu", "relu", "relu6", "relu_", "reproducibility_notes", "rrelu", "rrelu_", "scaled_dot_product_attention", "selu", "selu_", "sigmoid", "silu", "smooth_l1_loss", "soft_margin_loss", "softmax", "softmin", "softplus", "softshrink", "softsign", "sparse_support_notes", "tanh", "tanhshrink", "tf32_notes", "threshold", "threshold_", "torch", "triplet_margin_loss", "triplet_margin_with_distance_loss", "unfold", "upsample", "upsample_bilinear", "upsample_nearest", "utils", "warnings"], "value": "<module 'torch.nn.functional' from '/home/paperspace/Documents/video_env/lib/python3.11/site-packages/torch/nn/functional.py'>", "root": "F", "propertyChain": [], "language": "python"}, {"name": "GetData", "type": "type", "properties": ["create_dataset", "create_loaders", "gather_frames", "perp_dataset", "return_loaders", "return_reference_obj", "split_datasets"], "value": "<class 'data.dataset_binary.GetData'>", "root": "GetData", "propertyChain": [], "language": "python"}, {"name": "model", "type": "C3D", "properties": ["T_destination", "_apply", "_backward_hooks", "_backward_pre_hooks", "_buffers", "_call_impl", "_compiled_call_impl", "_forward_hooks", "_forward_hooks_always_called", "_forward_hooks_with_kwargs", "_forward_pre_hooks", "_forward_pre_hooks_with_kwargs", "_get_backward_hooks", "_get_backward_pre_hooks", "_get_name", "_is_full_backward_hook", "_load_from_state_dict", "_load_state_dict_post_hooks", "_load_state_dict_pre_hooks", "_maybe_warn_non_full_backward_hook", "_modules", "_named_members", "_non_persistent_buffers_set", "_parameters", "_register_load_state_dict_pre_hook", "_register_state_dict_hook", "_replicate_for_data_parallel", "_save_to_state_dict", "_slow_forward", "_state_dict_hooks", "_state_dict_pre_hooks", "_version", "_wrapped_call_impl", "add_module", "apply", "bfloat16", "buffers", "call_super_init", "children", "compile", "conv1", "conv2", "conv3", "conv4", "conv5", "conv6", "cpu", "cuda", "double", "dump_patches", "eval", "extra_repr", "float", "forward", "get_buffer", "get_extra_state", "get_parameter", "get_submodule", "half", "ipu", "linear1", "linear2", "load_state_dict", "modules", "named_buffers", "named_children", "named_modules", "named_parameters", "parameters", "pool1", "pool2", "pool3", "pool4", "pool5", "predictions", "register_backward_hook", "register_buffer", "register_forward_hook", "register_forward_pre_hook", "register_full_backward_hook", "register_full_backward_pre_hook", "register_load_state_dict_post_hook", "register_module", "register_parameter", "register_state_dict_pre_hook", "requires_grad_", "set_extra_state", "share_memory", "state_dict", "to", "to_empty", "train", "training", "type", "xpu", "zero_grad"], "value": "C3D(\n  (conv1): Conv3d(3, 64, kernel_size=(3, 3, 3), stride=(1, 1, 1))\n  (conv2): Conv3d(64, 128, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=same)\n  (pool1): MaxPool3d(kernel_size=(1, 2, 2), stride=(1, 2, 2), padding=0, dilation=1, ceil_mode=False)\n  (conv3): Conv3d(128, 256, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=same)\n  (pool2): MaxPool3d(kernel_size=(2, 2, 2), stride=(2, 2, 2), padding=0, dilation=1, ceil_mode=False)\n  (conv4): Conv3d(256, 256, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=same)\n  (pool3): MaxPool3d(kernel_size=(2, 2, 2), stride=(2, 2, 2), padding=0, dilation=1, ceil_mode=False)\n  (conv5): Conv3d(256, 256, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=same)\n  (pool4): MaxPool3d(kernel_size=(2, 2, 2), stride=(2, 2, 2), padding=0, dilation=1, ceil_mode=False)\n  (conv6): Conv3d(256, 256, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=same)\n  (pool5): MaxPool3d(kernel_size=(2, 2, 2), stride=(2, 2, 2), padding=0, dilation=1, ceil_mode=False)\n  (l...", "root": "model", "propertyChain": [], "language": "python"}, {"name": "np", "type": "module", "properties": ["ALLOW_THREADS", "BUFSIZE", "CLIP", "DataSource", "ERR_CALL", "ERR_DEFAULT", "ERR_IGNORE", "ERR_LOG", "ERR_PRINT", "ERR_RAISE", "ERR_WARN", "FLOATING_POINT_SUPPORT", "FPE_DIVIDEBYZERO", "FPE_INVALID", "FPE_OVERFLOW", "FPE_UNDERFLOW", "False_", "Inf", "Infinity", "MAXDIMS", "MAY_SHARE_BOUNDS", "MAY_SHARE_EXACT", "NAN", "NINF", "NZERO", "NaN", "PINF", "PZERO", "RAISE", "RankWarning", "SHIFT_DIVIDEBYZERO", "SHIFT_INVALID", "SHIFT_OVERFLOW", "SHIFT_UNDERFLOW", "ScalarType", "True_", "UFUNC_BUFSIZE_DEFAULT", "UFUNC_PYVALS_NAME", "WRAP", "_CopyMode", "_NoValue", "_UFUNC_API", "_add_newdoc_ufunc", "_builtins", "_distributor_init", "_financial_names", "_get_promotion_state", "_globals", "_int_extended_msg", "_mat", "_no_nep50_warning", "_pyinstaller_hooks_dir", "_pytesttester", "_set_promotion_state", "_specific_msg", "_typing", "_using_numpy2_behavior", "_utils", "abs", "absolute", "add", "add_docstring", "add_newdoc", "add_newdoc_ufunc", "all", "allclose", "alltrue", "amax", "amin", "angle", "any", "append", "apply_along_axis", "apply_over_axes", "arange", "arccos", "arccosh", "arcsin", "arcsinh", "arctan", "arctan2", "arctanh", "argmax", "argmin", "argpartition", "argsort", "argwhere", "around", "array", "array2string", "array_equal", "array_equiv", "array_repr", "array_split", "array_str", "asanyarray", "asarray", "asarray_chkfinite", "ascontiguousarray", "asfarray", "asfortranarray", "asmatrix", "atleast_1d", "atleast_2d", "atleast_3d", "average", "bartlett", "base_repr", "binary_repr", "bincount", "bitwise_and", "bitwise_not", "bitwise_or", "bitwise_xor", "blackman", "block", "bmat", "bool_", "broadcast", "broadcast_arrays", "broadcast_shapes", "broadcast_to", "busday_count", "busday_offset", "busdaycalendar", "byte", "byte_bounds", "bytes_", "c_", "can_cast", "cast", "cbrt", "cdouble", "ceil", "cfloat", "char", "character", "chararray", "choose", "clip", "clongdouble", "clongfloat", "column_stack", "common_type", "compare_chararrays", "compat", "complex128", "complex256", "complex64", "complex_", "complexfloating", "compress", "concatenate", "conj", "conjugate", "convolve", "copy", "copysign", "copyto", "corrcoef", "correlate", "cos", "cosh", "count_nonzero", "cov", "cross", "csingle", "ctypeslib", "cumprod", "cumproduct", "cumsum", "datetime64", "datetime_as_string", "datetime_data", "deg2rad", "degrees", "delete", "deprecate", "deprecate_with_doc", "diag", "diag_indices", "diag_indices_from", "diagflat", "diagonal", "diff", "digitize", "disp", "divide", "divmod", "dot", "double", "dsplit", "dstack", "dtype", "dtypes", "e", "ediff1d", "einsum", "einsum_path", "emath", "empty", "empty_like", "equal", "errstate", "euler_gamma", "exceptions", "exp", "exp2", "expand_dims", "expm1", "extract", "eye", "fabs", "fastCopyAndTranspose", "fft", "fill_diagonal", "find_common_type", "finfo", "fix", "flatiter", "flatnonzero", "flexible", "flip", "fliplr", "flipud", "float128", "float16", "float32", "float64", "float_", "float_power", "floating", "floor", "floor_divide", "fmax", "fmin", "fmod", "format_float_positional", "format_float_scientific", "format_parser", "frexp", "from_dlpack", "frombuffer", "fromfile", "fromfunction", "fromiter", "frompyfunc", "fromregex", "fromstring", "full", "full_like", "gcd", "generic", "genfromtxt", "geomspace", "get_array_wrap", "get_include", "get_printoptions", "getbufsize", "geterr", "geterrcall", "geterrobj", "gradient", "greater", "greater_equal", "half", "hamming", "hanning", "heaviside", "histogram", "histogram2d", "histogram_bin_edges", "histogramdd", "hsplit", "hstack", "hypot", "i0", "identity", "iinfo", "imag", "in1d", "index_exp", "indices", "inexact", "inf", "info", "infty", "inner", "insert", "int16", "int32", "int64", "int8", "int_", "intc", "integer", "interp", "intersect1d", "intp", "invert", "is_busday", "isclose", "iscomplex", "iscomplexobj", "isfinite", "isfortran", "isin", "isinf", "isnan", "isnat", "isneginf", "isposinf", "isreal", "isrealobj", "isscalar", "issctype", "issubclass_", "issubdtype", "issubsctype", "iterable", "ix_", "kaiser", "kernel_version", "kron", "lcm", "ldexp", "left_shift", "less", "less_equal", "lexsort", "lib", "linalg", "linspace", "little_endian", "load", "loadtxt", "log", "log10", "log1p", "log2", "logaddexp", "logaddexp2", "logical_and", "logical_not", "logical_or", "logical_xor", "logspace", "longcomplex", "longdouble", "longfloat", "longlong", "lookfor", "ma", "mask_indices", "mat", "matmul", "matrix", "max", "maximum", "maximum_sctype", "may_share_memory", "mean", "median", "memmap", "meshgrid", "mgrid", "min", "min_scalar_type", "minimum", "mintypecode", "mod", "modf", "moveaxis", "msort", "multiply", "nan", "nan_to_num", "nanargmax", "nanargmin", "nancumprod", "nancumsum", "nanmax", "nanmean", "nanmedian", "nanmin", "nanpercentile", "nanprod", "nanquantile", "nanstd", "nansum", "nanvar", "nbytes", "ndarray", "ndenumerate", "ndim", "ndindex", "nditer", "negative", "nested_iters", "newaxis", "nextafter", "nonzero", "not_equal", "numarray", "number", "obj2sctype", "object_", "ogrid", "oldnumeric", "ones", "ones_like", "outer", "packbits", "pad", "partition", "percentile", "pi", "piecewise", "place", "poly", "poly1d", "polyadd", "polyder", "polydiv", "polyfit", "polyint", "polymul", "polynomial", "polysub", "polyval", "positive", "power", "printoptions", "prod", "product", "promote_types", "ptp", "put", "put_along_axis", "putmask", "quantile", "r_", "rad2deg", "radians", "random", "ravel", "ravel_multi_index", "real", "real_if_close", "rec", "recarray", "recfromcsv", "recfromtxt", "reciprocal", "record", "remainder", "repeat", "require", "reshape", "resize", "result_type", "right_shift", "rint", "roll", "rollaxis", "roots", "rot90", "round", "round_", "row_stack", "s_", "safe_eval", "save", "savetxt", "savez", "savez_compressed", "sctype2char", "sctypeDict", "sctypes", "searchsorted", "select", "set_numeric_ops", "set_printoptions", "set_string_function", "setbufsize", "setdiff1d", "seterr", "seterrcall", "seterrobj", "setxor1d", "shape", "shares_memory", "short", "show_config", "show_runtime", "sign", "signbit", "signedinteger", "sin", "sinc", "single", "singlecomplex", "sinh", "size", "sometrue", "sort", "sort_complex", "source", "spacing", "split", "sqrt", "square", "squeeze", "stack", "std", "str_", "string_", "subtract", "sum", "swapaxes", "take", "take_along_axis", "tan", "tanh", "tensordot", "test", "testing", "tile", "timedelta64", "trace", "tracemalloc_domain", "transpose", "trapz", "tri", "tril", "tril_indices", "tril_indices_from", "trim_zeros", "triu", "triu_indices", "triu_indices_from", "true_divide", "trunc", "typecodes", "typename", "typing", "ubyte", "ufunc", "uint", "uint16", "uint32", "uint64", "uint8", "uintc", "uintp", "ulonglong", "unicode_", "union1d", "unique", "unpackbits", "unravel_index", "unsignedinteger", "unwrap", "ushort", "vander", "var", "vdot", "vectorize", "version", "void", "vsplit", "vstack", "where", "who", "zeros", "zeros_like"], "value": "<module 'numpy' from '/home/paperspace/Documents/video_env/lib/python3.11/site-packages/numpy/__init__.py'>", "root": "np", "propertyChain": [], "language": "python"}, {"name": "obj", "type": "GetData", "properties": ["batch_size", "create_dataset", "create_loaders", "df", "gather_frames", "label_path", "num_workers", "perp_dataset", "return_loaders", "return_reference_obj", "shuffle_train", "shuffle_val", "split_datasets", "test", "test_dataset", "test_final", "test_loader", "train", "train_dataset", "train_final", "train_loader", "val", "val_dataset", "val_final", "val_loader"], "value": "<data.dataset_binary.GetData object at 0x7ff368500d90>", "root": "obj", "propertyChain": [], "language": "python"}, {"name": "partial", "type": "type", "properties": ["args", "func", "keywords"], "value": "<class 'functools.partial'>", "root": "partial", "propertyChain": [], "language": "python"}, {"name": "partial_binary_fn", "type": "partial", "properties": ["args", "func", "keywords"], "value": "functools.partial(<function train_binary_fn at 0x7ff3684fb4c0>, model=C3D(\n  (conv1): Conv3d(3, 64, kernel_size=(3, 3, 3), stride=(1, 1, 1))\n  (conv2): Conv3d(64, 128, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=same)\n  (pool1): MaxPool3d(kernel_size=(1, 2, 2), stride=(1, 2, 2), padding=0, dilation=1, ceil_mode=False)\n  (conv3): Conv3d(128, 256, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=same)\n  (pool2): MaxPool3d(kernel_size=(2, 2, 2), stride=(2, 2, 2), padding=0, dilation=1, ceil_mode=False)\n  (conv4): Conv3d(256, 256, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=same)\n  (pool3): MaxPool3d(kernel_size=(2, 2, 2), stride=(2, 2, 2), padding=0, dilation=1, ceil_mode=False)\n  (conv5): Conv3d(256, 256, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=same)\n  (pool4): MaxPool3d(kernel_size=(2, 2, 2), stride=(2, 2, 2), padding=0, dilation=1, ceil_mode=False)\n  (conv6): Conv3d(256, 256, kernel_size=(3, 3, 3), stride=(1, 1, 1), padding=same)\n  (pool5): MaxPool3d(kernel_size=(2,...", "root": "partial_binary_fn", "propertyChain": [], "language": "python"}, {"name": "pd", "type": "module", "properties": ["ArrowDtype", "BooleanDtype", "Categorical", "CategoricalDtype", "CategoricalIndex", "DataFrame", "DateOffset", "DatetimeIndex", "DatetimeTZDtype", "ExcelFile", "ExcelWriter", "Flags", "Float32Dtype", "Float64Dtype", "Grouper", "HDFStore", "Index", "IndexSlice", "Int16Dtype", "Int32Dtype", "Int64Dtype", "Int8Dtype", "Interval", "IntervalDtype", "IntervalIndex", "MultiIndex", "NA", "NaT", "NamedAgg", "Period", "PeriodDtype", "PeriodIndex", "RangeIndex", "Series", "SparseDtype", "StringDtype", "Timedelta", "TimedeltaIndex", "Timestamp", "UInt16Dtype", "UInt32Dtype", "UInt64Dtype", "UInt8Dtype", "_built_with_meson", "_config", "_is_numpy_dev", "_libs", "_pandas_datetime_CAPI", "_pandas_parser_CAPI", "_testing", "_typing", "_version_meson", "annotations", "api", "array", "arrays", "bdate_range", "compat", "concat", "core", "crosstab", "cut", "date_range", "describe_option", "errors", "eval", "factorize", "from_dummies", "get_dummies", "get_option", "infer_freq", "interval_range", "io", "isna", "isnull", "json_normalize", "lreshape", "melt", "merge", "merge_asof", "merge_ordered", "notna", "notnull", "offsets", "option_context", "options", "pandas", "period_range", "pivot", "pivot_table", "plotting", "qcut", "read_clipboard", "read_csv", "read_excel", "read_feather", "read_fwf", "read_gbq", "read_hdf", "read_html", "read_json", "read_orc", "read_parquet", "read_pickle", "read_sas", "read_spss", "read_sql", "read_sql_query", "read_sql_table", "read_stata", "read_table", "read_xml", "reset_option", "set_eng_float_format", "set_option", "show_versions", "test", "testing", "timedelta_range", "to_datetime", "to_numeric", "to_pickle", "to_timedelta", "tseries", "unique", "util", "value_counts", "wide_to_long"], "value": "<module 'pandas' from '/home/paperspace/Documents/video_env/lib/python3.11/site-packages/pandas/__init__.py'>", "root": "pd", "propertyChain": [], "language": "python"}, {"name": "random", "type": "Tensor", "properties": ["H", "T", "_addmm_activation", "_autocast_to_full_precision", "_autocast_to_reduced_precision", "_backward_hooks", "_base", "_cdata", "_coalesced_", "_conj", "_conj_physical", "_dimI", "_dimV", "_fix_weakref", "_grad", "_grad_fn", "_has_symbolic_sizes_strides", "_indices", "_is_all_true", "_is_any_true", "_is_view", "_is_zerotensor", "_make_subclass", "_make_wrapper_subclass", "_neg_view", "_nested_tensor_size", "_nested_tensor_storage_offsets", "_nested_tensor_strides", "_nnz", "_post_accumulate_grad_hooks", "_python_dispatch", "_reduce_ex_internal", "_sparse_mask_projection", "_to_dense", "_to_sparse", "_to_sparse_bsc", "_to_sparse_bsr", "_to_sparse_csc", "_to_sparse_csr", "_typed_storage", "_update_names", "_values", "_version", "_view_func", "abs", "abs_", "absolute", "absolute_", "acos", "acos_", "acosh", "acosh_", "add", "add_", "addbmm", "addbmm_", "addcdiv", "addcdiv_", "addcmul", "addcmul_", "addmm", "addmm_", "addmv", "addmv_", "addr", "addr_", "adjoint", "align_as", "align_to", "all", "allclose", "amax", "amin", "aminmax", "angle", "any", "apply_", "arccos", "arccos_", "arccosh", "arccosh_", "arcsin", "arcsin_", "arcsinh", "arcsinh_", "arctan", "arctan2", "arctan2_", "arctan_", "arctanh", "arctanh_", "argmax", "argmin", "argsort", "argwhere", "as_strided", "as_strided_", "as_strided_scatter", "as_subclass", "asin", "asin_", "asinh", "asinh_", "atan", "atan2", "atan2_", "atan_", "atanh", "atanh_", "backward", "baddbmm", "baddbmm_", "bernoulli", "bernoulli_", "bfloat16", "bincount", "bitwise_and", "bitwise_and_", "bitwise_left_shift", "bitwise_left_shift_", "bitwise_not", "bitwise_not_", "bitwise_or", "bitwise_or_", "bitwise_right_shift", "bitwise_right_shift_", "bitwise_xor", "bitwise_xor_", "bmm", "bool", "broadcast_to", "byte", "cauchy_", "ccol_indices", "cdouble", "ceil", "ceil_", "cfloat", "chalf", "char", "cholesky", "cholesky_inverse", "cholesky_solve", "chunk", "clamp", "clamp_", "clamp_max", "clamp_max_", "clamp_min", "clamp_min_", "clip", "clip_", "clone", "coalesce", "col_indices", "conj", "conj_physical", "conj_physical_", "contiguous", "copy_", "copysign", "copysign_", "corrcoef", "cos", "cos_", "cosh", "cosh_", "count_nonzero", "cov", "cpu", "cross", "crow_indices", "cuda", "cummax", "cummin", "cumprod", "cumprod_", "cumsum", "cumsum_", "data", "data_ptr", "deg2rad", "deg2rad_", "dense_dim", "dequantize", "det", "detach", "detach_", "device", "diag", "diag_embed", "diagflat", "diagonal", "diagonal_scatter", "diff", "digamma", "digamma_", "dim", "dim_order", "dist", "div", "div_", "divide", "divide_", "dot", "double", "dsplit", "dtype", "eig", "element_size", "eq", "eq_", "equal", "erf", "erf_", "erfc", "erfc_", "erfinv", "erfinv_", "exp", "exp2", "exp2_", "exp_", "expand", "expand_as", "expm1", "expm1_", "exponential_", "fill_", "fill_diagonal_", "fix", "fix_", "flatten", "flip", "fliplr", "flipud", "float", "float_power", "float_power_", "floor", "floor_", "floor_divide", "floor_divide_", "fmax", "fmin", "fmod", "fmod_", "frac", "frac_", "frexp", "gather", "gcd", "gcd_", "ge", "ge_", "geometric_", "geqrf", "ger", "get_device", "grad", "grad_fn", "greater", "greater_", "greater_equal", "greater_equal_", "gt", "gt_", "half", "hardshrink", "has_names", "heaviside", "heaviside_", "histc", "histogram", "hsplit", "hypot", "hypot_", "i0", "i0_", "igamma", "igamma_", "igammac", "igammac_", "imag", "index_add", "index_add_", "index_copy", "index_copy_", "index_fill", "index_fill_", "index_put", "index_put_", "index_reduce", "index_reduce_", "index_select", "indices", "inner", "int", "int_repr", "inverse", "ipu", "is_coalesced", "is_complex", "is_conj", "is_contiguous", "is_cpu", "is_cuda", "is_distributed", "is_floating_point", "is_inference", "is_ipu", "is_leaf", "is_meta", "is_mkldnn", "is_mps", "is_neg", "is_nested", "is_nonzero", "is_ort", "is_pinned", "is_quantized", "is_same_size", "is_set_to", "is_shared", "is_signed", "is_sparse", "is_sparse_csr", "is_vulkan", "is_xla", "is_xpu", "isclose", "isfinite", "isinf", "isnan", "isneginf", "isposinf", "isreal", "istft", "item", "itemsize", "kron", "kthvalue", "layout", "lcm", "lcm_", "ldexp", "ldexp_", "le", "le_", "lerp", "lerp_", "less", "less_", "less_equal", "less_equal_", "lgamma", "lgamma_", "log", "log10", "log10_", "log1p", "log1p_", "log2", "log2_", "log_", "log_normal_", "log_softmax", "logaddexp", "logaddexp2", "logcumsumexp", "logdet", "logical_and", "logical_and_", "logical_not", "logical_not_", "logical_or", "logical_or_", "logical_xor", "logical_xor_", "logit", "logit_", "logsumexp", "long", "lstsq", "lt", "lt_", "lu", "lu_solve", "mH", "mT", "map2_", "map_", "masked_fill", "masked_fill_", "masked_scatter", "masked_scatter_", "masked_select", "matmul", "matrix_exp", "matrix_power", "max", "maximum", "mean", "median", "min", "minimum", "mm", "mode", "moveaxis", "movedim", "msort", "mul", "mul_", "multinomial", "multiply", "multiply_", "mv", "mvlgamma", "mvlgamma_", "name", "names", "nan_to_num", "nan_to_num_", "nanmean", "nanmedian", "nanquantile", "nansum", "narrow", "narrow_copy", "nbytes", "ndim", "ndimension", "ne", "ne_", "neg", "neg_", "negative", "negative_", "nelement", "new", "new_empty", "new_empty_strided", "new_full", "new_ones", "new_tensor", "new_zeros", "nextafter", "nextafter_", "nonzero", "nonzero_static", "norm", "normal_", "not_equal", "not_equal_", "numel", "numpy", "orgqr", "ormqr", "outer", "output_nr", "permute", "pin_memory", "pinverse", "polygamma", "polygamma_", "positive", "pow", "pow_", "prelu", "prod", "put", "put_", "q_per_channel_axis", "q_per_channel_scales", "q_per_channel_zero_points", "q_scale", "q_zero_point", "qr", "qscheme", "quantile", "rad2deg", "rad2deg_", "random_", "ravel", "real", "reciprocal", "reciprocal_", "record_stream", "refine_names", "register_hook", "register_post_accumulate_grad_hook", "reinforce", "relu", "relu_", "remainder", "remainder_", "rename", "rename_", "renorm", "renorm_", "repeat", "repeat_interleave", "requires_grad", "requires_grad_", "reshape", "reshape_as", "resize", "resize_", "resize_as", "resize_as_", "resize_as_sparse_", "resolve_conj", "resolve_neg", "retain_grad", "retains_grad", "roll", "rot90", "round", "round_", "row_indices", "rsqrt", "rsqrt_", "scatter", "scatter_", "scatter_add", "scatter_add_", "scatter_reduce", "scatter_reduce_", "select", "select_scatter", "set_", "sgn", "sgn_", "shape", "share_memory_", "short", "sigmoid", "sigmoid_", "sign", "sign_", "signbit", "sin", "sin_", "sinc", "sinc_", "sinh", "sinh_", "size", "slice_scatter", "slogdet", "smm", "softmax", "solve", "sort", "sparse_dim", "sparse_mask", "sparse_resize_", "sparse_resize_and_clear_", "split", "split_with_sizes", "sqrt", "sqrt_", "square", "square_", "squeeze", "squeeze_", "sspaddmm", "std", "stft", "storage", "storage_offset", "storage_type", "stride", "sub", "sub_", "subtract", "subtract_", "sum", "sum_to_size", "svd", "swapaxes", "swapaxes_", "swapdims", "swapdims_", "symeig", "t", "t_", "take", "take_along_dim", "tan", "tan_", "tanh", "tanh_", "tensor_split", "tile", "to", "to_dense", "to_mkldnn", "to_padded_tensor", "to_sparse", "to_sparse_bsc", "to_sparse_bsr", "to_sparse_coo", "to_sparse_csc", "to_sparse_csr", "tolist", "topk", "trace", "transpose", "transpose_", "triangular_solve", "tril", "tril_", "triu", "triu_", "true_divide", "true_divide_", "trunc", "trunc_", "type", "type_as", "unbind", "unflatten", "unfold", "uniform_", "unique", "unique_consecutive", "unsafe_chunk", "unsafe_split", "unsafe_split_with_sizes", "unsqueeze", "unsqueeze_", "untyped_storage", "values", "var", "vdot", "view", "view_as", "vsplit", "where", "xlogy", "xlogy_", "xpu", "zero_"], "value": "tensor([0.1513, 0.7818, 0.6230, 0.1758, 0.3174, 0.9797, 0.8531, 0.3087, 0.3804,\n        0.7444, 0.8394, 0.8542, 0.1430, 0.5556, 0.6566, 0.0087, 0.4288, 0.8480,\n        0.4236, 0.1061])", "root": "random", "propertyChain": [], "language": "python"}, {"name": "sys", "type": "module", "properties": ["_base_executable", "_clear_type_cache", "_current_exceptions", "_current_frames", "_debugmallocstats", "_framework", "_getframe", "_getquickenedcount", "_git", "_home", "_stdlib_dir", "_xoptions", "abiflags", "addaudithook", "api_version", "argv", "audit", "base_exec_prefix", "base_prefix", "breakpointhook", "builtin_module_names", "byteorder", "call_tracing", "copyright", "displayhook", "dont_write_bytecode", "exc_info", "excepthook", "exception", "exec_prefix", "executable", "exit", "flags", "float_info", "float_repr_style", "get_asyncgen_hooks", "get_coroutine_origin_tracking_depth", "get_int_max_str_digits", "getallocatedblocks", "getdefaultencoding", "getdlopenflags", "getfilesystemencodeerrors", "getfilesystemencoding", "getprofile", "getrecursionlimit", "getrefcount", "getsizeof", "getswitchinterval", "gettrace", "hash_info", "hexversion", "implementation", "int_info", "intern", "is_finalizing", "last_traceback", "last_type", "last_value", "maxsize", "maxunicode", "meta_path", "modules", "orig_argv", "path", "path_hooks", "path_importer_cache", "platform", "platlibdir", "prefix", "ps1", "ps2", "ps3", "pycache_prefix", "set_asyncgen_hooks", "set_coroutine_origin_tracking_depth", "set_int_max_str_digits", "setdlopenflags", "setprofile", "setrecursionlimit", "setswitchinterval", "settrace", "stderr", "stdin", "stdlib_module_names", "stdout", "thread_info", "unraisablehook", "version", "version_info", "warnoptions"], "value": "<module 'sys' (built-in)>", "root": "sys", "propertyChain": [], "language": "python"}, {"name": "test_loader", "type": "DataLoader", "properties": ["_DataLoader__initialized", "_DataLoader__multiprocessing_context", "_IterableDataset_len_called", "_auto_collation", "_dataset_kind", "_get_iterator", "_index_sampler", "_is_protocol", "_iterator", "batch_sampler", "batch_size", "check_worker_number_rationality", "collate_fn", "dataset", "drop_last", "generator", "multiprocessing_context", "num_workers", "persistent_workers", "pin_memory", "pin_memory_device", "prefetch_factor", "sampler", "timeout", "worker_init_fn"], "value": "<torch.utils.data.dataloader.DataLoader object at 0x7ff24d736ad0>", "root": "test_loader", "propertyChain": [], "language": "python"}, {"name": "torch", "type": "module", "properties": ["AVG", "AggregationType", "AliasDb", "Any", "AnyType", "Argument", "ArgumentSpec", "AwaitType", "BFloat16Storage", "BFloat16Tensor", "BenchmarkConfig", "BenchmarkExecutionStats", "Block", "BoolStorage", "BoolTensor", "BoolType", "BufferDict", "ByteStorage", "ByteTensor", "CallStack", "Callable", "Capsule", "CharStorage", "CharTensor", "ClassType", "Code", "CompilationUnit", "CompleteArgumentSpec", "ComplexDoubleStorage", "ComplexFloatStorage", "ComplexType", "ConcreteModuleType", "ConcreteModuleTypeBuilder", "DeepCopyMemoTable", "DeserializationStorageContext", "DeviceObjType", "Dict", "DictType", "DisableTorchFunction", "DisableTorchFunctionSubclass", "DispatchKey", "DispatchKeySet", "DoubleStorage", "DoubleTensor", "EnumType", "ErrorReport", "ExcludeDispatchKeyGuard", "ExecutionPlan", "FatalError", "FileCheck", "FloatStorage", "FloatTensor", "FloatType", "FunctionSchema", "Future", "FutureType", "Generator", "Gradient", "Graph", "GraphExecutorState", "HalfStorage", "HalfTensor", "IODescriptor", "InferredType", "IntStorage", "IntTensor", "IntType", "InterfaceType", "JITException", "List", "ListType", "LiteScriptModule", "LockingLogger", "LoggerBase", "LongStorage", "LongTensor", "ModuleDict", "Node", "NoneType", "NoopLogger", "NumberType", "OperatorInfo", "Optional", "OptionalType", "PRIVATE_OPS", "ParameterDict", "PyObjectType", "PyTorchFileReader", "PyTorchFileWriter", "QInt32Storage", "QInt8Storage", "QUInt2x4Storage", "QUInt4x2Storage", "QUInt8Storage", "RRefType", "SUM", "ScriptClass", "ScriptClassFunction", "ScriptDict", "ScriptDictIterator", "ScriptDictKeyIterator", "ScriptFunction", "ScriptList", "ScriptListIterator", "ScriptMethod", "ScriptModule", "ScriptModuleSerializer", "ScriptObject", "ScriptObjectProperty", "SerializationStorageContext", "Set", "ShortStorage", "ShortTensor", "Size", "StaticModule", "Storage", "StorageBase", "Stream", "StreamObjType", "StringType", "SymBool", "SymBoolType", "SymFloat", "SymInt", "SymIntType", "TYPE_CHECKING", "Tag", "Tensor", "TensorType", "ThroughputBenchmark", "TracingState", "Tuple", "TupleType", "Type", "TypedStorage", "USE_GLOBAL_DEPS", "USE_RTLD_GLOBAL_WITH_LIBTORCH", "Union", "UnionType", "UntypedStorage", "Use", "Value", "_C", "_GLOBAL_DEVICE_CONTEXT", "_TorchCompileInductorWrapper", "_TorchCompileWrapper", "_TritonLibrary", "_VF", "_adaptive_avg_pool2d", "_adaptive_avg_pool3d", "_add_batch_dim", "_add_relu", "_add_relu_", "_addmm_activation", "_aminmax", "_amp_foreach_non_finite_check_and_unscale_", "_amp_update_scale_", "_assert", "_assert_async", "_assert_tensor_metadata", "_awaits", "_batch_norm_impl_index", "_cast_Byte", "_cast_Char", "_cast_Double", "_cast_Float", "_cast_Half", "_cast_Int", "_cast_Long", "_cast_Short", "_check", "_check_index", "_check_not_implemented", "_check_tensor_all", "_check_tensor_all_with", "_check_type", "_check_value", "_check_with", "_choose_qparams_per_tensor", "_classes", "_coalesce", "_compile", "_compute_linear_combination", "_conj", "_conj_copy", "_conj_physical", "_convert_indices_from_coo_to_csr", "_convert_indices_from_csr_to_coo", "_convolution", "_convolution_mode", "_copy_from", "_copy_from_and_resize", "_cslt_compress", "_cslt_sparse_mm", "_ctc_loss", "_cudnn_ctc_loss", "_cudnn_init_dropout_state", "_cudnn_rnn", "_cudnn_rnn_flatten_weight", "_cufft_clear_plan_cache", "_cufft_get_plan_cache_max_size", "_cufft_get_plan_cache_size", "_cufft_set_plan_cache_max_size", "_cummax_helper", "_cummin_helper", "_custom_op", "_debug_has_internal_overlap", "_decomp", "_deprecated_attrs", "_dim_arange", "_dirichlet_grad", "_disable_dynamo", "_disable_functionalization", "_dispatch", "_dynamo", "_efficientzerotensor", "_embedding_bag", "_embedding_bag_forward_only", "_empty_affine_quantized", "_empty_per_channel_affine_quantized", "_enable_functionalization", "_euclidean_dist", "_fake_quantize_learnable_per_channel_affine", "_fake_quantize_learnable_per_tensor_affine", "_fake_quantize_per_tensor_affine_cachemask_tensor_qparams", "_fft_c2c", "_fft_c2r", "_fft_r2c", "_fill_mem_eff_dropout_mask_", "_foobar", "_foreach_abs", "_foreach_abs_", "_foreach_acos", "_foreach_acos_", "_foreach_add", "_foreach_add_", "_foreach_addcdiv", "_foreach_addcdiv_", "_foreach_addcmul", "_foreach_addcmul_", "_foreach_asin", "_foreach_asin_", "_foreach_atan", "_foreach_atan_", "_foreach_ceil", "_foreach_ceil_", "_foreach_clamp_max", "_foreach_clamp_max_", "_foreach_clamp_min", "_foreach_clamp_min_", "_foreach_copy_", "_foreach_cos", "_foreach_cos_", "_foreach_cosh", "_foreach_cosh_", "_foreach_div", "_foreach_div_", "_foreach_erf", "_foreach_erf_", "_foreach_erfc", "_foreach_erfc_", "_foreach_exp", "_foreach_exp_", "_foreach_expm1", "_foreach_expm1_", "_foreach_floor", "_foreach_floor_", "_foreach_frac", "_foreach_frac_", "_foreach_lerp", "_foreach_lerp_", "_foreach_lgamma", "_foreach_lgamma_", "_foreach_log", "_foreach_log10", "_foreach_log10_", "_foreach_log1p", "_foreach_log1p_", "_foreach_log2", "_foreach_log2_", "_foreach_log_", "_foreach_maximum", "_foreach_maximum_", "_foreach_minimum", "_foreach_minimum_", "_foreach_mul", "_foreach_mul_", "_foreach_neg", "_foreach_neg_", "_foreach_norm", "_foreach_pow", "_foreach_pow_", "_foreach_reciprocal", "_foreach_reciprocal_", "_foreach_round", "_foreach_round_", "_foreach_sigmoid", "_foreach_sigmoid_", "_foreach_sign", "_foreach_sign_", "_foreach_sin", "_foreach_sin_", "_foreach_sinh", "_foreach_sinh_", "_foreach_sqrt", "_foreach_sqrt_", "_foreach_sub", "_foreach_sub_", "_foreach_tan", "_foreach_tan_", "_foreach_tanh", "_foreach_tanh_", "_foreach_trunc", "_foreach_trunc_", "_foreach_zero_", "_freeze_functional_tensor", "_from_functional_tensor", "_functional_assert_async", "_functional_sym_constrain_range", "_functional_sym_constrain_range_for_size", "_functionalize_has_metadata_mutation", "_functorch", "_fused_adam_", "_fused_adamw_", "_fused_dropout", "_fused_moving_avg_obs_fq_helper", "_fused_sdp_choice", "_fw_primal_copy", "_grid_sampler_2d_cpu_fallback", "_guards", "_has_compatible_shallow_copy_type", "_higher_order_ops", "_histogramdd_bin_edges", "_histogramdd_from_bin_cts", "_histogramdd_from_bin_tensors", "_import_dotted_name", "_index_put_impl_", "_indices_copy", "_inductor", "_initExtension", "_int_mm", "_is_all_true", "_is_any_true", "_is_functional_tensor", "_is_zerotensor", "_jit_internal", "_lazy_modules", "_linalg_check_errors", "_linalg_det", "_linalg_eigh", "_linalg_slogdet", "_linalg_solve_ex", "_linalg_svd", "_linalg_utils", "_load_global_deps", "_lobpcg", "_log_softmax", "_log_softmax_backward_data", "_logcumsumexp", "_logging", "_lowrank", "_lstm_mps", "_lu_with_info", "_make_dep_token", "_make_dual", "_make_dual_copy", "_make_per_channel_quantized_tensor", "_make_per_tensor_quantized_tensor", "_masked_scale", "_masked_softmax", "_meta_registrations", "_mkldnn", "_mkldnn_reshape", "_mkldnn_transpose", "_mkldnn_transpose_", "_mps_convolution", "_mps_convolution_transpose", "_namedtensor_internals", "_native_batch_norm_legit", "_native_batch_norm_legit_no_training", "_native_multi_head_attention", "_neg_view", "_neg_view_copy", "_nested_from_padded", "_nested_from_padded_and_nested_example", "_nested_tensor_from_mask", "_nested_tensor_from_mask_left_aligned", "_nested_tensor_from_tensor_list", "_nested_tensor_softmax_with_shape", "_nnpack_available", "_nnpack_spatial_convolution", "_numpy", "_ops", "_pack_padded_sequence", "_pad_packed_sequence", "_pin_memory", "_preload_cuda_deps", "_prelu_kernel", "_prims", "_prims_common", "_propagate_xla_data", "_refs", "_register_device_module", "_remove_batch_dim", "_reshape_alias_copy", "_reshape_from_tensor", "_resize_output_", "_rowwise_prune", "_running_with_deploy", "_sample_dirichlet", "_saturate_weight_to_fp16", "_scaled_dot_product_attention_math", "_scaled_dot_product_efficient_attention", "_scaled_dot_product_flash_attention", "_scaled_mm", "_segment_reduce", "_shape_as_tensor", "_sobol_engine_draw", "_sobol_engine_ff_", "_sobol_engine_initialize_state_", "_sobol_engine_scramble_", "_softmax", "_softmax_backward_data", "_sources", "_sparse_broadcast_to", "_sparse_broadcast_to_copy", "_sparse_coo_tensor_unsafe", "_sparse_csr_prod", "_sparse_csr_sum", "_sparse_log_softmax_backward_data", "_sparse_semi_structured_linear", "_sparse_softmax_backward_data", "_sparse_sparse_matmul", "_sparse_sum", "_stack", "_standard_gamma", "_standard_gamma_grad", "_storage_classes", "_subclasses", "_sync", "_tensor", "_tensor_classes", "_tensor_str", "_test_autograd_multiple_dispatch", "_test_autograd_multiple_dispatch_view", "_test_autograd_multiple_dispatch_view_copy", "_test_check_tensor", "_test_functorch_fallback", "_test_serialization_subcmul", "_to_cpu", "_to_functional_tensor", "_to_sparse_semi_structured", "_transform_bias_rescale_qkv", "_transformer_encoder_layer_fwd", "_trilinear", "_triton_multi_head_attention", "_triton_scaled_dot_attention", "_unique", "_unique2", "_unpack_dual", "_unsafe_index", "_unsafe_index_put", "_use_cudnn_ctc_loss", "_use_cudnn_rnn_flatten_weight", "_utils", "_utils_internal", "_validate_compressed_sparse_indices", "_validate_sparse_bsc_tensor_args", "_validate_sparse_bsr_tensor_args", "_validate_sparse_compressed_tensor_args", "_validate_sparse_coo_tensor_args", "_validate_sparse_csc_tensor_args", "_validate_sparse_csr_tensor_args", "_values_copy", "_vmap_internals", "_warn_typed_storage_removal", "_weight_norm", "_weight_norm_interface", "_weights_only_unpickler", "abs", "abs_", "absolute", "acos", "acos_", "acosh", "acosh_", "adaptive_avg_pool1d", "adaptive_max_pool1d", "add", "addbmm", "addcdiv", "addcmul", "addmm", "addmv", "addmv_", "addr", "adjoint", "affine_grid_generator", "alias_copy", "align_tensors", "all", "allclose", "alpha_dropout", "alpha_dropout_", "amax", "amin", "aminmax", "amp", "angle", "any", "ao", "arange", "arccos", "arccos_", "arccosh", "arccosh_", "arcsin", "arcsin_", "arcsinh", "arcsinh_", "arctan", "arctan2", "arctan_", "arctanh", "arctanh_", "are_deterministic_algorithms_enabled", "argmax", "argmin", "argsort", "argwhere", "as_strided", "as_strided_", "as_strided_copy", "as_strided_scatter", "as_tensor", "asarray", "asin", "asin_", "asinh", "asinh_", "atan", "atan2", "atan_", "atanh", "atanh_", "atleast_1d", "atleast_2d", "atleast_3d", "attr", "autocast", "autocast_decrement_nesting", "autocast_increment_nesting", "autograd", "avg_pool1d", "backends", "baddbmm", "bartlett_window", "batch_norm", "batch_norm_backward_elemt", "batch_norm_backward_reduce", "batch_norm_elemt", "batch_norm_gather_stats", "batch_norm_gather_stats_with_counts", "batch_norm_stats", "batch_norm_update_stats", "bernoulli", "bfloat16", "bilinear", "binary_cross_entropy_with_logits", "bincount", "binomial", "bits16", "bits1x8", "bits2x4", "bits4x2", "bits8", "bitwise_and", "bitwise_left_shift", "bitwise_not", "bitwise_or", "bitwise_right_shift", "bitwise_xor", "blackman_window", "block_diag", "bmm", "bool", "broadcast_shapes", "broadcast_tensors", "broadcast_to", "bucketize", "builtins", "can_cast", "candidate", "cartesian_prod", "cat", "ccol_indices_copy", "cdist", "cdouble", "ceil", "ceil_", "celu", "celu_", "cfloat", "chain_matmul", "chalf", "channel_shuffle", "channels_last", "channels_last_3d", "cholesky", "cholesky_inverse", "cholesky_solve", "choose_qparams_optimized", "chunk", "clamp", "clamp_", "clamp_max", "clamp_max_", "clamp_min", "clamp_min_", "classes", "classproperty", "clear_autocast_cache", "clip", "clip_", "clone", "col_indices_copy", "column_stack", "combinations", "compile", "compiled_with_cxx11_abi", "compiler", "complex", "complex128", "complex32", "complex64", "concat", "concatenate", "conj", "conj_physical", "conj_physical_", "constant_pad_nd", "contiguous_format", "conv1d", "conv2d", "conv3d", "conv_tbc", "conv_transpose1d", "conv_transpose2d", "conv_transpose3d", "convolution", "copysign", "corrcoef", "cos", "cos_", "cosh", "cosh_", "cosine_embedding_loss", "cosine_similarity", "count_nonzero", "cov", "cpp", "cpu", "cross", "crow_indices_copy", "ctc_loss", "ctypes", "cuda", "cudnn_affine_grid_generator", "cudnn_batch_norm", "cudnn_convolution", "cudnn_convolution_add_relu", "cudnn_convolution_relu", "cudnn_convolution_transpose", "cudnn_grid_sampler", "cudnn_is_acceptable", "cummax", "cummin", "cumprod", "cumsum", "cumulative_trapezoid", "default_generator", "deg2rad", "deg2rad_", "dequantize", "det", "detach", "detach_", "detach_copy", "device", "diag", "diag_embed", "diagflat", "diagonal", "diagonal_copy", "diagonal_scatter", "diff", "digamma", "dist", "distributed", "distributions", "div", "divide", "dot", "double", "dropout", "dropout_", "dsmm", "dsplit", "dstack", "dtype", "e", "eig", "einsum", "embedding", "embedding_bag", "embedding_renorm_", "empty", "empty_like", "empty_permuted", "empty_quantized", "empty_strided", "enable_grad", "eq", "equal", "erf", "erf_", "erfc", "erfc_", "erfinv", "exp", "exp2", "exp2_", "exp_", "expand_copy", "expm1", "expm1_", "export", "eye", "fake_quantize_per_channel_affine", "fake_quantize_per_tensor_affine", "fbgemm_linear_fp16_weight", "fbgemm_linear_fp16_weight_fp32_activation", "fbgemm_linear_int8_weight", "fbgemm_linear_int8_weight_fp32_activation", "fbgemm_linear_quantize_weight", "fbgemm_pack_gemm_matrix_fp16", "fbgemm_pack_quantized_matrix", "feature_alpha_dropout", "feature_alpha_dropout_", "feature_dropout", "feature_dropout_", "fft", "fill", "fill_", "finfo", "fix", "fix_", "flatten", "flip", "fliplr", "flipud", "float", "float16", "float32", "float64", "float8_e4m3fn", "float8_e5m2", "float_power", "floor", "floor_", "floor_divide", "fmax", "fmin", "fmod", "fork", "frac", "frac_", "frexp", "frobenius_norm", "from_dlpack", "from_file", "from_numpy", "frombuffer", "full", "full_like", "func", "functional", "fused_moving_avg_obs_fake_quant", "futures", "fx", "gather", "gcd", "gcd_", "ge", "geqrf", "ger", "get_autocast_cpu_dtype", "get_autocast_gpu_dtype", "get_autocast_ipu_dtype", "get_autocast_xla_dtype", "get_default_dtype", "get_deterministic_debug_mode", "get_device", "get_file_path", "get_float32_matmul_precision", "get_num_interop_threads", "get_num_threads", "get_rng_state", "gradient", "greater", "greater_equal", "grid_sampler", "grid_sampler_2d", "grid_sampler_3d", "group_norm", "gru", "gru_cell", "gt", "half", "hamming_window", "hann_window", "hardshrink", "has_lapack", "has_mkl", "has_openmp", "has_spectral", "heaviside", "hinge_embedding_loss", "histc", "histogram", "histogramdd", "hsmm", "hsplit", "hspmm", "hstack", "hub", "hypot", "i0", "i0_", "igamma", "igammac", "iinfo", "imag", "import_ir_module", "import_ir_module_from_buffer", "index_add", "index_copy", "index_fill", "index_put", "index_put_", "index_reduce", "index_select", "indices_copy", "inf", "inference_mode", "init_num_threads", "initial_seed", "inner", "inspect", "instance_norm", "int", "int16", "int32", "int64", "int8", "int_repr", "inverse", "is_anomaly_check_nan_enabled", "is_anomaly_enabled", "is_autocast_cache_enabled", "is_autocast_cpu_enabled", "is_autocast_enabled", "is_autocast_ipu_enabled", "is_autocast_xla_enabled", "is_complex", "is_conj", "is_deterministic_algorithms_warn_only_enabled", "is_distributed", "is_floating_point", "is_grad_enabled", "is_inference", "is_inference_mode_enabled", "is_neg", "is_nonzero", "is_same_size", "is_signed", "is_storage", "is_tensor", "is_vulkan_available", "is_warn_always_enabled", "isclose", "isfinite", "isin", "isinf", "isnan", "isneginf", "isposinf", "isreal", "istft", "jit", "kaiser_window", "kl_div", "kron", "kthvalue", "layer_norm", "layout", "lcm", "lcm_", "ldexp", "ldexp_", "le", "legacy_contiguous_format", "lerp", "less", "less_equal", "lgamma", "library", "linalg", "linspace", "load", "lobpcg", "log", "log10", "log10_", "log1p", "log1p_", "log2", "log2_", "log_", "log_softmax", "logaddexp", "logaddexp2", "logcumsumexp", "logdet", "logical_and", "logical_not", "logical_or", "logical_xor", "logit", "logit_", "logspace", "logsumexp", "long", "lstm", "lstm_cell", "lstsq", "lt", "lu", "lu_solve", "lu_unpack", "manual_seed", "margin_ranking_loss", "masked", "masked_fill", "masked_scatter", "masked_select", "math", "matmul", "matrix_exp", "matrix_power", "matrix_rank", "max", "max_pool1d", "max_pool1d_with_indices", "max_pool2d", "max_pool3d", "maximum", "mean", "median", "memory_format", "merge_type_from_type_comment", "meshgrid", "min", "minimum", "miopen_batch_norm", "miopen_convolution", "miopen_convolution_add_relu", "miopen_convolution_relu", "miopen_convolution_transpose", "miopen_depthwise_convolution", "miopen_rnn", "mkldnn_adaptive_avg_pool2d", "mkldnn_convolution", "mkldnn_linear_backward_weights", "mkldnn_max_pool2d", "mkldnn_max_pool3d", "mkldnn_rnn_layer", "mm", "mode", "moveaxis", "movedim", "mps", "msort", "mul", "multinomial", "multiply", "multiprocessing", "mv", "mvlgamma", "name", "nan", "nan_to_num", "nan_to_num_", "nanmean", "nanmedian", "nanquantile", "nansum", "narrow", "narrow_copy", "native_batch_norm", "native_channel_shuffle", "native_dropout", "native_group_norm", "native_layer_norm", "native_norm", "ne", "neg", "neg_", "negative", "negative_", "nested", "nextafter", "nn", "no_grad", "nonzero", "nonzero_static", "norm", "norm_except_dim", "normal", "not_equal", "nuclear_norm", "numel", "obj", "ones", "ones_like", "onnx", "ops", "optim", "orgqr", "ormqr", "os", "outer", "overrides", "package", "pairwise_distance", "parse_ir", "parse_schema", "parse_type_comment", "pca_lowrank", "pdist", "per_channel_affine", "per_channel_affine_float_qparams", "per_channel_symmetric", "per_tensor_affine", "per_tensor_symmetric", "permute", "permute_copy", "pi", "pinverse", "pixel_shuffle", "pixel_unshuffle", "platform", "poisson", "poisson_nll_loss", "polar", "polygamma", "positive", "pow", "prelu", "prepare_multiprocessing_environment", "preserve_format", "prod", "profiler", "promote_types", "put", "py_float", "py_int", "q_per_channel_axis", "q_per_channel_scales", "q_per_channel_zero_points", "q_scale", "q_zero_point", "qint32", "qint8", "qr", "qscheme", "quantile", "quantization", "quantize_per_channel", "quantize_per_tensor", "quantize_per_tensor_dynamic", "quantized_batch_norm", "quantized_gru", "quantized_gru_cell", "quantized_lstm", "quantized_lstm_cell", "quantized_max_pool1d", "quantized_max_pool2d", "quantized_max_pool3d", "quantized_rnn_relu_cell", "quantized_rnn_tanh_cell", "quasirandom", "quint2x4", "quint4x2", "quint8", "rad2deg", "rad2deg_", "rand", "rand_like", "randint", "randint_like", "randn", "randn_like", "random", "randperm", "range", "ravel", "read_vitals", "real", "reciprocal", "reciprocal_", "relu", "relu_", "remainder", "renorm", "repeat_interleave", "reshape", "resize_as_", "resize_as_sparse_", "resolve_conj", "resolve_neg", "result_type", "return_types", "rnn_relu", "rnn_relu_cell", "rnn_tanh", "rnn_tanh_cell", "roll", "rot90", "round", "round_", "row_indices_copy", "row_stack", "rrelu", "rrelu_", "rsqrt", "rsqrt_", "rsub", "saddmm", "save", "scalar_tensor", "scatter", "scatter_add", "scatter_reduce", "searchsorted", "seed", "segment_reduce", "select", "select_copy", "select_scatter", "selu", "selu_", "serialization", "set_anomaly_enabled", "set_autocast_cache_enabled", "set_autocast_cpu_dtype", "set_autocast_cpu_enabled", "set_autocast_enabled", "set_autocast_gpu_dtype", "set_autocast_ipu_dtype", "set_autocast_ipu_enabled", "set_autocast_xla_dtype", "set_autocast_xla_enabled", "set_default_device", "set_default_dtype", "set_default_tensor_type", "set_deterministic_debug_mode", "set_float32_matmul_precision", "set_flush_denormal", "set_grad_enabled", "set_num_interop_threads", "set_num_threads", "set_printoptions", "set_rng_state", "set_vital", "set_warn_always", "sgn", "short", "sigmoid", "sigmoid_", "sign", "signal", "signbit", "sin", "sin_", "sinc", "sinc_", "sinh", "sinh_", "slice_copy", "slice_scatter", "slogdet", "smm", "softmax", "solve", "sort", "sparse", "sparse_bsc", "sparse_bsc_tensor", "sparse_bsr", "sparse_bsr_tensor", "sparse_compressed_tensor", "sparse_coo", "sparse_coo_tensor", "sparse_csc", "sparse_csc_tensor", "sparse_csr", "sparse_csr_tensor", "special", "split", "split_copy", "split_with_sizes", "split_with_sizes_copy", "spmm", "sqrt", "sqrt_", "square", "square_", "squeeze", "squeeze_copy", "sspaddmm", "stack", "std", "std_mean", "stft", "storage", "strided", "sub", "subtract", "sum", "svd", "svd_lowrank", "swapaxes", "swapdims", "sym_constrain_range", "sym_constrain_range_for_size", "sym_float", "sym_int", "sym_max", "sym_min", "sym_not", "symeig", "sys", "t", "t_copy", "take", "take_along_dim", "tan", "tan_", "tanh", "tanh_", "tensor", "tensor_split", "tensordot", "testing", "textwrap", "threshold", "threshold_", "tile", "to_dlpack", "topk", "torch", "torch_version", "trace", "transpose", "transpose_copy", "trapezoid", "trapz", "triangular_solve", "tril", "tril_indices", "triplet_margin_loss", "triu", "triu_indices", "true_divide", "trunc", "trunc_", "typename", "types", "uint8", "unbind", "unbind_copy", "unflatten", "unfold_copy", "unify_type_list", "unique", "unique_consecutive", "unsafe_chunk", "unsafe_split", "unsafe_split_with_sizes", "unsqueeze", "unsqueeze_copy", "use_deterministic_algorithms", "utils", "values_copy", "vander", "var", "var_mean", "vdot", "version", "view_as_complex", "view_as_complex_copy", "view_as_real", "view_as_real_copy", "view_copy", "vitals_enabled", "vmap", "vsplit", "vstack", "wait", "where", "windows", "xlogy", "xlogy_", "zero_", "zeros", "zeros_like"], "value": "<module 'torch' from '/home/paperspace/Documents/video_env/lib/python3.11/site-packages/torch/__init__.py'>", "root": "torch", "propertyChain": [], "language": "python"}, {"name": "train_binary_fn", "type": "function", "properties": [], "value": "<function train_binary_fn at 0x7ff3684fb4c0>", "root": "train_binary_fn", "propertyChain": [], "language": "python"}, {"name": "train_loader", "type": "DataLoader", "properties": ["_DataLoader__initialized", "_DataLoader__multiprocessing_context", "_IterableDataset_len_called", "_auto_collation", "_dataset_kind", "_get_iterator", "_index_sampler", "_is_protocol", "_iterator", "batch_sampler", "batch_size", "check_worker_number_rationality", "collate_fn", "dataset", "drop_last", "generator", "multiprocessing_context", "num_workers", "persistent_workers", "pin_memory", "pin_memory_device", "prefetch_factor", "sampler", "timeout", "worker_init_fn"], "value": "<torch.utils.data.dataloader.DataLoader object at 0x7ff2554bc0d0>", "root": "train_loader", "propertyChain": [], "language": "python"}, {"name": "val_loader", "type": "DataLoader", "properties": ["_DataLoader__initialized", "_DataLoader__multiprocessing_context", "_IterableDataset_len_called", "_auto_collation", "_dataset_kind", "_get_iterator", "_index_sampler", "_is_protocol", "_iterator", "batch_sampler", "batch_size", "check_worker_number_rationality", "collate_fn", "dataset", "drop_last", "generator", "multiprocessing_context", "num_workers", "persistent_workers", "pin_memory", "pin_memory_device", "prefetch_factor", "sampler", "timeout", "worker_init_fn"], "value": "<torch.utils.data.dataloader.DataLoader object at 0x7ff255596e50>", "root": "val_loader", "propertyChain": [], "language": "python"}, {"name": "wandb_dict", "type": "dict", "properties": ["epochs", "batch_size", "learning_rate", "model", "dataset", "optimizer"], "value": "{'epochs': 30, 'batch_size': 64, 'learning_rate': 0.01, 'model': 'C3D', 'dataset': 'Binary', 'optimizer': 'SGD'}", "root": "wandb_dict", "propertyChain": [], "language": "python"}, {"name": "warnings", "type": "module", "properties": ["WarningMessage", "_DEPRECATED_MSG", "_OptionError", "_add_filter", "_defaultaction", "_deprecated", "_filters_mutated", "_formatwarning_orig", "_formatwarnmsg", "_formatwarnmsg_impl", "_getaction", "_getcategory", "_is_internal_frame", "_next_external_frame", "_onceregistry", "_processoptions", "_setoption", "_showwarning_orig", "_showwarnmsg", "_showwarnmsg_impl", "_warn_unawaited_coroutine", "catch_warnings", "defaultaction", "filters", "filterwarnings", "formatwarning", "onceregistry", "resetwarnings", "showwarning", "simplefilter", "sys", "warn", "warn_explicit"], "value": "<module 'warnings' from '/usr/lib/python3.11/warnings.py'>", "root": "warnings", "propertyChain": [], "language": "python"}]
+tensor([0.0147, 0.6911, 0.9654, 0.1178, 0.7937, 0.7369, 0.5852, 0.0332, 0.8682,
+        0.7047, 0.2293, 0.3176, 0.9498, 0.7910, 0.6888, 0.4747, 0.5791, 0.7177,
+        0.3120, 0.8963])
+tensor([0.0147, 0.6911, 0.9654, 0.1178, 0.7937, 0.7369, 0.5852, 0.0332, 0.8682,
+        0.7047, 0.2293, 0.3176, 0.9498, 0.7910, 0.6888, 0.4747, 0.5791, 0.7177,
+        0.3120, 0.8963])
+tensor([0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1])
+tensor([0.2406, 0.1305, 0.1128, 0.5895, 0.6991, 0.6877, 0.1858, 0.6935, 0.5300,
+        0.7032, 0.4210, 0.0183, 0.7839, 0.8763, 0.4077, 0.5389, 0.2860, 0.8009,
+        0.2569, 0.5824])

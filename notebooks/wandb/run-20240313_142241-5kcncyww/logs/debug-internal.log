@@ -1,0 +1,73 @@
+2024-03-13 14:22:41,012 INFO    StreamThr :22391 [internal.py:wandb_internal():86] W&B internal server running at pid: 22391, started at: 2024-03-13 14:22:41.012182
+2024-03-13 14:22:41,014 DEBUG   HandlerThread:22391 [handler.py:handle_request():146] handle_request: status
+2024-03-13 14:22:41,016 INFO    WriterThread:22391 [datastore.py:open_for_write():87] open: /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_142241-5kcncyww/run-5kcncyww.wandb
+2024-03-13 14:22:41,016 DEBUG   SenderThread:22391 [sender.py:send():378] send: header
+2024-03-13 14:22:41,020 DEBUG   SenderThread:22391 [sender.py:send():378] send: run
+2024-03-13 14:22:41,312 INFO    SenderThread:22391 [dir_watcher.py:__init__():211] watching files in: /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_142241-5kcncyww/files
+2024-03-13 14:22:41,312 INFO    SenderThread:22391 [sender.py:_start_run_threads():1099] run started: 5kcncyww with start time 1710339761.011752
+2024-03-13 14:22:41,321 DEBUG   HandlerThread:22391 [handler.py:handle_request():146] handle_request: check_version
+2024-03-13 14:22:41,322 DEBUG   SenderThread:22391 [sender.py:send_request():405] send_request: check_version
+2024-03-13 14:22:41,448 DEBUG   HandlerThread:22391 [handler.py:handle_request():146] handle_request: run_start
+2024-03-13 14:22:41,458 DEBUG   HandlerThread:22391 [system_info.py:__init__():26] System info init
+2024-03-13 14:22:41,458 DEBUG   HandlerThread:22391 [system_info.py:__init__():41] System info init done
+2024-03-13 14:22:41,458 INFO    HandlerThread:22391 [system_monitor.py:start():194] Starting system monitor
+2024-03-13 14:22:41,459 INFO    SystemMonitor:22391 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-03-13 14:22:41,459 INFO    HandlerThread:22391 [system_monitor.py:probe():214] Collecting system info
+2024-03-13 14:22:41,459 INFO    SystemMonitor:22391 [interfaces.py:start():190] Started cpu monitoring
+2024-03-13 14:22:41,460 INFO    SystemMonitor:22391 [interfaces.py:start():190] Started disk monitoring
+2024-03-13 14:22:41,461 INFO    SystemMonitor:22391 [interfaces.py:start():190] Started gpu monitoring
+2024-03-13 14:22:41,462 INFO    SystemMonitor:22391 [interfaces.py:start():190] Started memory monitoring
+2024-03-13 14:22:41,462 INFO    SystemMonitor:22391 [interfaces.py:start():190] Started network monitoring
+2024-03-13 14:22:41,472 DEBUG   HandlerThread:22391 [system_info.py:probe():150] Probing system
+2024-03-13 14:22:41,474 DEBUG   HandlerThread:22391 [system_info.py:_probe_git():135] Probing git
+2024-03-13 14:22:41,478 DEBUG   HandlerThread:22391 [system_info.py:_probe_git():143] Probing git done
+2024-03-13 14:22:41,478 DEBUG   HandlerThread:22391 [system_info.py:probe():198] Probing system done
+2024-03-13 14:22:41,478 DEBUG   HandlerThread:22391 [system_monitor.py:probe():223] {'os': 'Linux-6.2.0-37-generic-x86_64-with-glibc2.35', 'python': '3.11.7', 'heartbeatAt': '2024-03-13T14:22:41.472478', 'startedAt': '2024-03-13T14:22:41.008353', 'docker': None, 'cuda': None, 'args': (), 'state': 'running', 'program': '<python with no main file>', 'codePathLocal': None, 'git': {'remote': 'https://github.com/yashchks87/video_classification.git', 'commit': '26901055048a56f3c62243f35e97da1c3d6aec26'}, 'email': None, 'root': '/home/paperspace/Documents/video_classification', 'host': 'ps8g8wdpesol', 'username': 'paperspace', 'executable': '/home/paperspace/Documents/video_env/bin/python', 'cpu_count': 12, 'cpu_count_logical': 12, 'cpu_freq': {'current': 2800.289, 'min': 0.0, 'max': 0.0}, 'cpu_freq_per_core': [{'current': 2800.289, 'min': 0.0, 'max': 0.0}, {'current': 2800.289, 'min': 0.0, 'max': 0.0}, {'current': 2800.289, 'min': 0.0, 'max': 0.0}, {'current': 2800.289, 'min': 0.0, 'max': 0.0}, {'current': 2800.289, 'min': 0.0, 'max': 0.0}, {'current': 2800.289, 'min': 0.0, 'max': 0.0}, {'current': 2800.289, 'min': 0.0, 'max': 0.0}, {'current': 2800.289, 'min': 0.0, 'max': 0.0}, {'current': 2800.289, 'min': 0.0, 'max': 0.0}, {'current': 2800.289, 'min': 0.0, 'max': 0.0}, {'current': 2800.289, 'min': 0.0, 'max': 0.0}, {'current': 2800.289, 'min': 0.0, 'max': 0.0}], 'disk': {'/': {'total': 982.4505729675293, 'used': 533.8037910461426}}, 'gpu': 'NVIDIA A100-SXM4-80GB', 'gpu_count': 1, 'gpu_devices': [{'name': 'NVIDIA A100-SXM4-80GB', 'memory_total': 85899345920}], 'memory': {'total': 88.37419509887695}}
+2024-03-13 14:22:41,478 INFO    HandlerThread:22391 [system_monitor.py:probe():224] Finished collecting system info
+2024-03-13 14:22:41,478 INFO    HandlerThread:22391 [system_monitor.py:probe():227] Publishing system info
+2024-03-13 14:22:41,479 INFO    HandlerThread:22391 [system_monitor.py:probe():229] Finished publishing system info
+2024-03-13 14:22:41,481 DEBUG   SenderThread:22391 [sender.py:send():378] send: files
+2024-03-13 14:22:41,481 INFO    SenderThread:22391 [sender.py:_save_file():1365] saving file wandb-metadata.json with policy now
+2024-03-13 14:22:41,533 DEBUG   HandlerThread:22391 [handler.py:handle_request():146] handle_request: python_packages
+2024-03-13 14:22:41,534 DEBUG   SenderThread:22391 [sender.py:send_request():405] send_request: python_packages
+2024-03-13 14:22:41,574 DEBUG   HandlerThread:22391 [handler.py:handle_request():146] handle_request: stop_status
+2024-03-13 14:22:41,574 DEBUG   HandlerThread:22391 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-13 14:22:41,574 DEBUG   SenderThread:22391 [sender.py:send_request():405] send_request: stop_status
+2024-03-13 14:22:41,977 DEBUG   SenderThread:22391 [sender.py:send():378] send: telemetry
+2024-03-13 14:22:42,014 INFO    wandb-upload_0:22391 [upload_job.py:push():131] Uploaded file /tmp/tmpptkv6o98wandb/uaujbuxc-wandb-metadata.json
+2024-03-13 14:22:42,313 INFO    Thread-12 :22391 [dir_watcher.py:_on_file_created():271] file/dir created: /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_142241-5kcncyww/files/wandb-metadata.json
+2024-03-13 14:22:42,314 INFO    Thread-12 :22391 [dir_watcher.py:_on_file_created():271] file/dir created: /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_142241-5kcncyww/files/output.log
+2024-03-13 14:22:42,314 INFO    Thread-12 :22391 [dir_watcher.py:_on_file_created():271] file/dir created: /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_142241-5kcncyww/files/requirements.txt
+2024-03-13 14:22:44,313 INFO    Thread-12 :22391 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_142241-5kcncyww/files/output.log
+2024-03-13 14:22:46,214 DEBUG   HandlerThread:22391 [handler.py:handle_request():146] handle_request: status_report
+2024-03-13 14:22:48,315 INFO    Thread-12 :22391 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_142241-5kcncyww/files/output.log
+2024-03-13 14:22:50,315 INFO    Thread-12 :22391 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_142241-5kcncyww/files/output.log
+2024-03-13 14:22:51,370 DEBUG   HandlerThread:22391 [handler.py:handle_request():146] handle_request: status_report
+2024-03-13 14:22:52,316 INFO    Thread-12 :22391 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_142241-5kcncyww/files/output.log
+2024-03-13 14:22:54,317 INFO    Thread-12 :22391 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_142241-5kcncyww/files/output.log
+2024-03-13 14:22:54,929 DEBUG   HandlerThread:22391 [handler.py:handle_request():146] handle_request: pause
+2024-03-13 14:22:54,929 INFO    HandlerThread:22391 [handler.py:handle_request_pause():708] stopping system metrics thread
+2024-03-13 14:22:54,929 INFO    HandlerThread:22391 [system_monitor.py:finish():203] Stopping system monitor
+2024-03-13 14:22:54,929 DEBUG   SystemMonitor:22391 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-03-13 14:22:54,930 DEBUG   SystemMonitor:22391 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-03-13 14:22:54,930 DEBUG   SystemMonitor:22391 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-03-13 14:22:54,930 INFO    HandlerThread:22391 [interfaces.py:finish():202] Joined cpu monitor
+2024-03-13 14:22:54,931 INFO    HandlerThread:22391 [interfaces.py:finish():202] Joined disk monitor
+2024-03-13 14:22:54,970 INFO    HandlerThread:22391 [interfaces.py:finish():202] Joined gpu monitor
+2024-03-13 14:22:54,970 INFO    HandlerThread:22391 [interfaces.py:finish():202] Joined memory monitor
+2024-03-13 14:22:54,971 INFO    HandlerThread:22391 [interfaces.py:finish():202] Joined network monitor
+2024-03-13 14:22:54,971 DEBUG   SenderThread:22391 [sender.py:send():378] send: stats
+2024-03-13 14:22:56,317 INFO    Thread-12 :22391 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_142241-5kcncyww/files/output.log
+2024-03-13 14:22:56,534 DEBUG   HandlerThread:22391 [handler.py:handle_request():146] handle_request: stop_status
+2024-03-13 14:22:56,535 DEBUG   SenderThread:22391 [sender.py:send_request():405] send_request: stop_status
+2024-03-13 14:22:56,536 DEBUG   HandlerThread:22391 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-13 14:22:56,681 DEBUG   HandlerThread:22391 [handler.py:handle_request():146] handle_request: status_report
+2024-03-13 14:23:01,681 DEBUG   HandlerThread:22391 [handler.py:handle_request():146] handle_request: status_report
+2024-03-13 14:23:06,682 DEBUG   HandlerThread:22391 [handler.py:handle_request():146] handle_request: status_report
+2024-03-13 14:23:11,534 DEBUG   HandlerThread:22391 [handler.py:handle_request():146] handle_request: stop_status
+2024-03-13 14:23:11,535 DEBUG   SenderThread:22391 [sender.py:send_request():405] send_request: stop_status
+2024-03-13 14:23:11,578 DEBUG   HandlerThread:22391 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-13 14:23:12,664 DEBUG   HandlerThread:22391 [handler.py:handle_request():146] handle_request: status_report
+2024-03-13 14:23:13,322 INFO    Thread-12 :22391 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_142241-5kcncyww/files/config.yaml
+2024-03-13 14:23:17,751 DEBUG   HandlerThread:22391 [handler.py:handle_request():146] handle_request: status_report
+2024-03-13 14:23:22,751 DEBUG   HandlerThread:22391 [handler.py:handle_request():146] handle_request: status_report

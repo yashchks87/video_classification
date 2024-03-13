@@ -1,0 +1,30 @@
+
+  0%|                                                                                                                                         | 0/20 [00:04<?, ?batch/s]
+Traceback (most recent call last):
+  File "/home/paperspace/Documents/video_classification/notebooks/train_script.py", line 40, in <module>
+    partial_binary_fn(epochs = 30,
+  File "/home/paperspace/Documents/video_classification/notebooks/../scripts/train/train_binary.py", line 41, in train_binary_fn
+    outputs = model(frames)
+              ^^^^^^^^^^^^^
+  File "/home/paperspace/Documents/video_env/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/paperspace/Documents/video_env/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/paperspace/Documents/video_classification/notebooks/../scripts/model/c3d.py", line 24, in forward
+    x = self.conv2(x)
+        ^^^^^^^^^^^^^
+  File "/home/paperspace/Documents/video_env/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/paperspace/Documents/video_env/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/paperspace/Documents/video_env/lib/python3.11/site-packages/torch/nn/modules/conv.py", line 610, in forward
+    return self._conv_forward(input, self.weight, self.bias)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/paperspace/Documents/video_env/lib/python3.11/site-packages/torch/nn/modules/conv.py", line 605, in _conv_forward
+    return F.conv3d(
+           ^^^^^^^^^
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 8.72 GiB. GPU 0 has a total capacty of 79.33 GiB of which 2.34 GiB is free. Process 3807 has 71.62 GiB memory in use. Including non-PyTorch memory, this process has 5.14 GiB memory in use. Of the allocated memory 4.64 GiB is allocated by PyTorch, and 17.49 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF

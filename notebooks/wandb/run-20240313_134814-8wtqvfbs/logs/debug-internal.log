@@ -1,0 +1,176 @@
+2024-03-13 13:48:19,732 INFO    StreamThr :4209 [internal.py:wandb_internal():86] W&B internal server running at pid: 4209, started at: 2024-03-13 13:48:19.732345
+2024-03-13 13:48:19,734 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: status
+2024-03-13 13:48:19,736 INFO    WriterThread:4209 [datastore.py:open_for_write():87] open: /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_134814-8wtqvfbs/run-8wtqvfbs.wandb
+2024-03-13 13:48:19,736 DEBUG   SenderThread:4209 [sender.py:send():378] send: header
+2024-03-13 13:48:19,736 DEBUG   SenderThread:4209 [sender.py:send():378] send: run
+2024-03-13 13:48:19,992 INFO    SenderThread:4209 [dir_watcher.py:__init__():211] watching files in: /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_134814-8wtqvfbs/files
+2024-03-13 13:48:19,992 INFO    SenderThread:4209 [sender.py:_start_run_threads():1099] run started: 8wtqvfbs with start time 1710337698.877918
+2024-03-13 13:48:19,998 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: check_version
+2024-03-13 13:48:19,998 DEBUG   SenderThread:4209 [sender.py:send_request():405] send_request: check_version
+2024-03-13 13:48:20,111 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: run_start
+2024-03-13 13:48:20,112 DEBUG   HandlerThread:4209 [system_info.py:__init__():26] System info init
+2024-03-13 13:48:20,112 DEBUG   HandlerThread:4209 [system_info.py:__init__():41] System info init done
+2024-03-13 13:48:20,112 INFO    HandlerThread:4209 [system_monitor.py:start():194] Starting system monitor
+2024-03-13 13:48:20,112 INFO    SystemMonitor:4209 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-03-13 13:48:20,113 INFO    HandlerThread:4209 [system_monitor.py:probe():214] Collecting system info
+2024-03-13 13:48:20,113 INFO    SystemMonitor:4209 [interfaces.py:start():190] Started cpu monitoring
+2024-03-13 13:48:20,115 INFO    SystemMonitor:4209 [interfaces.py:start():190] Started disk monitoring
+2024-03-13 13:48:20,115 INFO    SystemMonitor:4209 [interfaces.py:start():190] Started gpu monitoring
+2024-03-13 13:48:20,116 INFO    SystemMonitor:4209 [interfaces.py:start():190] Started memory monitoring
+2024-03-13 13:48:20,116 INFO    SystemMonitor:4209 [interfaces.py:start():190] Started network monitoring
+2024-03-13 13:48:20,120 DEBUG   HandlerThread:4209 [system_info.py:probe():150] Probing system
+2024-03-13 13:48:20,121 DEBUG   HandlerThread:4209 [system_info.py:_probe_git():135] Probing git
+2024-03-13 13:48:20,126 DEBUG   HandlerThread:4209 [system_info.py:_probe_git():143] Probing git done
+2024-03-13 13:48:20,126 DEBUG   HandlerThread:4209 [system_info.py:probe():198] Probing system done
+2024-03-13 13:48:20,126 DEBUG   HandlerThread:4209 [system_monitor.py:probe():223] {'os': 'Linux-6.2.0-37-generic-x86_64-with-glibc2.35', 'python': '3.11.7', 'heartbeatAt': '2024-03-13T13:48:20.120849', 'startedAt': '2024-03-13T13:48:14.624456', 'docker': None, 'cuda': None, 'args': (), 'state': 'running', 'program': '<python with no main file>', 'codePathLocal': None, 'git': {'remote': 'https://github.com/yashchks87/video_classification.git', 'commit': '26901055048a56f3c62243f35e97da1c3d6aec26'}, 'email': None, 'root': '/home/paperspace/Documents/video_classification', 'host': 'ps8g8wdpesol', 'username': 'paperspace', 'executable': '/home/paperspace/Documents/video_env/bin/python', 'cpu_count': 12, 'cpu_count_logical': 12, 'cpu_freq': {'current': 2800.289, 'min': 0.0, 'max': 0.0}, 'cpu_freq_per_core': [{'current': 2800.289, 'min': 0.0, 'max': 0.0}, {'current': 2800.289, 'min': 0.0, 'max': 0.0}, {'current': 2800.289, 'min': 0.0, 'max': 0.0}, {'current': 2800.289, 'min': 0.0, 'max': 0.0}, {'current': 2800.289, 'min': 0.0, 'max': 0.0}, {'current': 2800.289, 'min': 0.0, 'max': 0.0}, {'current': 2800.289, 'min': 0.0, 'max': 0.0}, {'current': 2800.289, 'min': 0.0, 'max': 0.0}, {'current': 2800.289, 'min': 0.0, 'max': 0.0}, {'current': 2800.289, 'min': 0.0, 'max': 0.0}, {'current': 2800.289, 'min': 0.0, 'max': 0.0}, {'current': 2800.289, 'min': 0.0, 'max': 0.0}], 'disk': {'/': {'total': 982.4505729675293, 'used': 530.1133918762207}}, 'gpu': 'NVIDIA A100-SXM4-80GB', 'gpu_count': 1, 'gpu_devices': [{'name': 'NVIDIA A100-SXM4-80GB', 'memory_total': 85899345920}], 'memory': {'total': 88.37419509887695}}
+2024-03-13 13:48:20,126 INFO    HandlerThread:4209 [system_monitor.py:probe():224] Finished collecting system info
+2024-03-13 13:48:20,126 INFO    HandlerThread:4209 [system_monitor.py:probe():227] Publishing system info
+2024-03-13 13:48:20,127 INFO    HandlerThread:4209 [system_monitor.py:probe():229] Finished publishing system info
+2024-03-13 13:48:20,127 DEBUG   SenderThread:4209 [sender.py:send():378] send: files
+2024-03-13 13:48:20,127 INFO    SenderThread:4209 [sender.py:_save_file():1365] saving file wandb-metadata.json with policy now
+2024-03-13 13:48:20,179 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: python_packages
+2024-03-13 13:48:20,179 DEBUG   SenderThread:4209 [sender.py:send_request():405] send_request: python_packages
+2024-03-13 13:48:20,222 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: stop_status
+2024-03-13 13:48:20,222 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-13 13:48:20,222 DEBUG   SenderThread:4209 [sender.py:send_request():405] send_request: stop_status
+2024-03-13 13:48:20,340 DEBUG   SenderThread:4209 [sender.py:send():378] send: telemetry
+2024-03-13 13:48:20,432 INFO    wandb-upload_0:4209 [upload_job.py:push():131] Uploaded file /tmp/tmpmk4xwhc0wandb/ukxv3ck4-wandb-metadata.json
+2024-03-13 13:48:20,993 INFO    Thread-25 :4209 [dir_watcher.py:_on_file_created():271] file/dir created: /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_134814-8wtqvfbs/files/requirements.txt
+2024-03-13 13:48:20,993 INFO    Thread-25 :4209 [dir_watcher.py:_on_file_created():271] file/dir created: /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_134814-8wtqvfbs/files/wandb-metadata.json
+2024-03-13 13:48:25,341 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: status_report
+2024-03-13 13:48:30,342 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: status_report
+2024-03-13 13:48:35,180 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: stop_status
+2024-03-13 13:48:35,180 DEBUG   SenderThread:4209 [sender.py:send_request():405] send_request: stop_status
+2024-03-13 13:48:35,222 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-13 13:48:36,323 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: status_report
+2024-03-13 13:48:41,324 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: status_report
+2024-03-13 13:48:46,046 DEBUG   SenderThread:4209 [sender.py:send():378] send: telemetry
+2024-03-13 13:48:46,090 DEBUG   SenderThread:4209 [sender.py:send():378] send: exit
+2024-03-13 13:48:46,090 INFO    SenderThread:4209 [sender.py:send_exit():585] handling exit code: 0
+2024-03-13 13:48:46,090 INFO    SenderThread:4209 [sender.py:send_exit():587] handling runtime: 25
+2024-03-13 13:48:46,091 INFO    SenderThread:4209 [sender.py:_save_file():1365] saving file wandb-summary.json with policy end
+2024-03-13 13:48:46,091 INFO    SenderThread:4209 [sender.py:send_exit():593] send defer
+2024-03-13 13:48:46,092 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: defer
+2024-03-13 13:48:46,092 INFO    HandlerThread:4209 [handler.py:handle_request_defer():172] handle defer: 0
+2024-03-13 13:48:46,092 DEBUG   SenderThread:4209 [sender.py:send_request():405] send_request: defer
+2024-03-13 13:48:46,092 INFO    SenderThread:4209 [sender.py:send_request_defer():609] handle sender defer: 0
+2024-03-13 13:48:46,092 INFO    SenderThread:4209 [sender.py:transition_state():613] send defer: 1
+2024-03-13 13:48:46,092 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: defer
+2024-03-13 13:48:46,092 INFO    HandlerThread:4209 [handler.py:handle_request_defer():172] handle defer: 1
+2024-03-13 13:48:46,092 DEBUG   SenderThread:4209 [sender.py:send_request():405] send_request: defer
+2024-03-13 13:48:46,092 INFO    SenderThread:4209 [sender.py:send_request_defer():609] handle sender defer: 1
+2024-03-13 13:48:46,092 INFO    SenderThread:4209 [sender.py:transition_state():613] send defer: 2
+2024-03-13 13:48:46,092 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: defer
+2024-03-13 13:48:46,092 INFO    HandlerThread:4209 [handler.py:handle_request_defer():172] handle defer: 2
+2024-03-13 13:48:46,092 INFO    HandlerThread:4209 [system_monitor.py:finish():203] Stopping system monitor
+2024-03-13 13:48:46,093 DEBUG   SystemMonitor:4209 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-03-13 13:48:46,093 DEBUG   SystemMonitor:4209 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-03-13 13:48:46,093 DEBUG   SystemMonitor:4209 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-03-13 13:48:46,093 INFO    HandlerThread:4209 [interfaces.py:finish():202] Joined cpu monitor
+2024-03-13 13:48:46,093 INFO    HandlerThread:4209 [interfaces.py:finish():202] Joined disk monitor
+2024-03-13 13:48:46,133 INFO    HandlerThread:4209 [interfaces.py:finish():202] Joined gpu monitor
+2024-03-13 13:48:46,133 INFO    HandlerThread:4209 [interfaces.py:finish():202] Joined memory monitor
+2024-03-13 13:48:46,133 INFO    HandlerThread:4209 [interfaces.py:finish():202] Joined network monitor
+2024-03-13 13:48:46,134 DEBUG   SenderThread:4209 [sender.py:send_request():405] send_request: defer
+2024-03-13 13:48:46,134 INFO    SenderThread:4209 [sender.py:send_request_defer():609] handle sender defer: 2
+2024-03-13 13:48:46,134 INFO    SenderThread:4209 [sender.py:transition_state():613] send defer: 3
+2024-03-13 13:48:46,134 DEBUG   SenderThread:4209 [sender.py:send():378] send: stats
+2024-03-13 13:48:46,134 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: defer
+2024-03-13 13:48:46,134 INFO    HandlerThread:4209 [handler.py:handle_request_defer():172] handle defer: 3
+2024-03-13 13:48:46,134 DEBUG   SenderThread:4209 [sender.py:send_request():405] send_request: defer
+2024-03-13 13:48:46,134 INFO    SenderThread:4209 [sender.py:send_request_defer():609] handle sender defer: 3
+2024-03-13 13:48:46,134 INFO    SenderThread:4209 [sender.py:transition_state():613] send defer: 4
+2024-03-13 13:48:46,134 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: defer
+2024-03-13 13:48:46,134 INFO    HandlerThread:4209 [handler.py:handle_request_defer():172] handle defer: 4
+2024-03-13 13:48:46,134 DEBUG   SenderThread:4209 [sender.py:send_request():405] send_request: defer
+2024-03-13 13:48:46,134 INFO    SenderThread:4209 [sender.py:send_request_defer():609] handle sender defer: 4
+2024-03-13 13:48:46,135 INFO    SenderThread:4209 [sender.py:transition_state():613] send defer: 5
+2024-03-13 13:48:46,135 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: defer
+2024-03-13 13:48:46,135 INFO    HandlerThread:4209 [handler.py:handle_request_defer():172] handle defer: 5
+2024-03-13 13:48:46,135 DEBUG   SenderThread:4209 [sender.py:send():378] send: summary
+2024-03-13 13:48:46,135 INFO    SenderThread:4209 [sender.py:_save_file():1365] saving file wandb-summary.json with policy end
+2024-03-13 13:48:46,136 DEBUG   SenderThread:4209 [sender.py:send_request():405] send_request: defer
+2024-03-13 13:48:46,136 INFO    SenderThread:4209 [sender.py:send_request_defer():609] handle sender defer: 5
+2024-03-13 13:48:46,136 INFO    SenderThread:4209 [sender.py:transition_state():613] send defer: 6
+2024-03-13 13:48:46,136 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: defer
+2024-03-13 13:48:46,136 INFO    HandlerThread:4209 [handler.py:handle_request_defer():172] handle defer: 6
+2024-03-13 13:48:46,136 DEBUG   SenderThread:4209 [sender.py:send_request():405] send_request: defer
+2024-03-13 13:48:46,136 INFO    SenderThread:4209 [sender.py:send_request_defer():609] handle sender defer: 6
+2024-03-13 13:48:46,138 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: status_report
+2024-03-13 13:48:46,193 INFO    SenderThread:4209 [sender.py:transition_state():613] send defer: 7
+2024-03-13 13:48:46,193 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: defer
+2024-03-13 13:48:46,193 INFO    HandlerThread:4209 [handler.py:handle_request_defer():172] handle defer: 7
+2024-03-13 13:48:46,193 DEBUG   SenderThread:4209 [sender.py:send_request():405] send_request: defer
+2024-03-13 13:48:46,193 INFO    SenderThread:4209 [sender.py:send_request_defer():609] handle sender defer: 7
+2024-03-13 13:48:46,193 INFO    SenderThread:4209 [sender.py:transition_state():613] send defer: 8
+2024-03-13 13:48:46,193 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: defer
+2024-03-13 13:48:46,193 INFO    HandlerThread:4209 [handler.py:handle_request_defer():172] handle defer: 8
+2024-03-13 13:48:46,193 DEBUG   SenderThread:4209 [sender.py:send_request():405] send_request: defer
+2024-03-13 13:48:46,193 INFO    SenderThread:4209 [sender.py:send_request_defer():609] handle sender defer: 8
+2024-03-13 13:48:46,194 INFO    SenderThread:4209 [job_builder.py:build():298] Attempting to build job artifact
+2024-03-13 13:48:46,194 INFO    SenderThread:4209 [job_builder.py:_get_source_type():428] is repo sourced job
+2024-03-13 13:48:46,194 INFO    SenderThread:4209 [job_builder.py:_get_program_relpath():446] run is notebook based run
+2024-03-13 13:48:46,194 INFO    SenderThread:4209 [sender.py:transition_state():613] send defer: 9
+2024-03-13 13:48:46,194 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: defer
+2024-03-13 13:48:46,194 INFO    HandlerThread:4209 [handler.py:handle_request_defer():172] handle defer: 9
+2024-03-13 13:48:46,194 DEBUG   SenderThread:4209 [sender.py:send_request():405] send_request: defer
+2024-03-13 13:48:46,194 INFO    SenderThread:4209 [sender.py:send_request_defer():609] handle sender defer: 9
+2024-03-13 13:48:46,194 INFO    SenderThread:4209 [dir_watcher.py:finish():358] shutting down directory watcher
+2024-03-13 13:48:46,997 INFO    SenderThread:4209 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_134814-8wtqvfbs/files/config.yaml
+2024-03-13 13:48:46,997 INFO    SenderThread:4209 [dir_watcher.py:_on_file_created():271] file/dir created: /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_134814-8wtqvfbs/files/wandb-summary.json
+2024-03-13 13:48:46,998 INFO    SenderThread:4209 [dir_watcher.py:finish():388] scan: /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_134814-8wtqvfbs/files
+2024-03-13 13:48:46,998 INFO    SenderThread:4209 [dir_watcher.py:finish():402] scan save: /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_134814-8wtqvfbs/files/config.yaml config.yaml
+2024-03-13 13:48:46,998 INFO    SenderThread:4209 [dir_watcher.py:finish():402] scan save: /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_134814-8wtqvfbs/files/wandb-summary.json wandb-summary.json
+2024-03-13 13:48:46,998 INFO    SenderThread:4209 [dir_watcher.py:finish():402] scan save: /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_134814-8wtqvfbs/files/wandb-metadata.json wandb-metadata.json
+2024-03-13 13:48:46,998 INFO    SenderThread:4209 [dir_watcher.py:finish():402] scan save: /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_134814-8wtqvfbs/files/requirements.txt requirements.txt
+2024-03-13 13:48:46,998 INFO    SenderThread:4209 [sender.py:transition_state():613] send defer: 10
+2024-03-13 13:48:47,000 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: defer
+2024-03-13 13:48:47,001 INFO    HandlerThread:4209 [handler.py:handle_request_defer():172] handle defer: 10
+2024-03-13 13:48:47,002 DEBUG   SenderThread:4209 [sender.py:send_request():405] send_request: defer
+2024-03-13 13:48:47,002 INFO    SenderThread:4209 [sender.py:send_request_defer():609] handle sender defer: 10
+2024-03-13 13:48:47,002 INFO    SenderThread:4209 [file_pusher.py:finish():172] shutting down file pusher
+2024-03-13 13:48:47,047 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: poll_exit
+2024-03-13 13:48:47,048 DEBUG   SenderThread:4209 [sender.py:send_request():405] send_request: poll_exit
+2024-03-13 13:48:47,198 INFO    wandb-upload_0:4209 [upload_job.py:push():131] Uploaded file /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_134814-8wtqvfbs/files/config.yaml
+2024-03-13 13:48:47,386 INFO    wandb-upload_1:4209 [upload_job.py:push():131] Uploaded file /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_134814-8wtqvfbs/files/wandb-summary.json
+2024-03-13 13:48:47,536 INFO    wandb-upload_2:4209 [upload_job.py:push():131] Uploaded file /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_134814-8wtqvfbs/files/requirements.txt
+2024-03-13 13:48:47,737 INFO    Thread-24 (_thread_body):4209 [sender.py:transition_state():613] send defer: 11
+2024-03-13 13:48:47,737 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: defer
+2024-03-13 13:48:47,737 INFO    HandlerThread:4209 [handler.py:handle_request_defer():172] handle defer: 11
+2024-03-13 13:48:47,738 DEBUG   SenderThread:4209 [sender.py:send_request():405] send_request: defer
+2024-03-13 13:48:47,738 INFO    SenderThread:4209 [sender.py:send_request_defer():609] handle sender defer: 11
+2024-03-13 13:48:47,738 INFO    SenderThread:4209 [file_pusher.py:join():178] waiting for file pusher
+2024-03-13 13:48:47,738 INFO    SenderThread:4209 [sender.py:transition_state():613] send defer: 12
+2024-03-13 13:48:47,738 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: defer
+2024-03-13 13:48:47,738 INFO    HandlerThread:4209 [handler.py:handle_request_defer():172] handle defer: 12
+2024-03-13 13:48:47,739 DEBUG   SenderThread:4209 [sender.py:send_request():405] send_request: defer
+2024-03-13 13:48:47,739 INFO    SenderThread:4209 [sender.py:send_request_defer():609] handle sender defer: 12
+2024-03-13 13:48:47,739 INFO    SenderThread:4209 [file_stream.py:finish():595] file stream finish called
+2024-03-13 13:48:47,957 INFO    SenderThread:4209 [file_stream.py:finish():599] file stream finish is done
+2024-03-13 13:48:47,957 INFO    SenderThread:4209 [sender.py:transition_state():613] send defer: 13
+2024-03-13 13:48:47,957 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: defer
+2024-03-13 13:48:47,957 INFO    HandlerThread:4209 [handler.py:handle_request_defer():172] handle defer: 13
+2024-03-13 13:48:47,958 DEBUG   SenderThread:4209 [sender.py:send_request():405] send_request: defer
+2024-03-13 13:48:47,958 INFO    SenderThread:4209 [sender.py:send_request_defer():609] handle sender defer: 13
+2024-03-13 13:48:47,958 INFO    SenderThread:4209 [sender.py:transition_state():613] send defer: 14
+2024-03-13 13:48:47,958 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: defer
+2024-03-13 13:48:47,958 INFO    HandlerThread:4209 [handler.py:handle_request_defer():172] handle defer: 14
+2024-03-13 13:48:47,958 DEBUG   SenderThread:4209 [sender.py:send():378] send: final
+2024-03-13 13:48:47,958 DEBUG   SenderThread:4209 [sender.py:send():378] send: footer
+2024-03-13 13:48:47,958 DEBUG   SenderThread:4209 [sender.py:send_request():405] send_request: defer
+2024-03-13 13:48:47,958 INFO    SenderThread:4209 [sender.py:send_request_defer():609] handle sender defer: 14
+2024-03-13 13:48:47,959 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: poll_exit
+2024-03-13 13:48:47,959 DEBUG   SenderThread:4209 [sender.py:send_request():405] send_request: poll_exit
+2024-03-13 13:48:47,960 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-13 13:48:47,961 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: server_info
+2024-03-13 13:48:47,961 DEBUG   SenderThread:4209 [sender.py:send_request():405] send_request: server_info
+2024-03-13 13:48:48,002 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: get_summary
+2024-03-13 13:48:48,002 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: sampled_history
+2024-03-13 13:48:48,002 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: job_info
+2024-03-13 13:48:48,008 DEBUG   SenderThread:4209 [sender.py:send_request():405] send_request: job_info
+2024-03-13 13:48:48,046 DEBUG   HandlerThread:4209 [handler.py:handle_request():146] handle_request: shutdown
+2024-03-13 13:48:48,046 INFO    HandlerThread:4209 [handler.py:finish():869] shutting down handler
+2024-03-13 13:48:49,002 INFO    WriterThread:4209 [datastore.py:close():296] close: /home/paperspace/Documents/video_classification/notebooks/wandb/run-20240313_134814-8wtqvfbs/run-8wtqvfbs.wandb
+2024-03-13 13:48:49,008 INFO    SenderThread:4209 [sender.py:finish():1521] shutting down sender
+2024-03-13 13:48:49,008 INFO    SenderThread:4209 [file_pusher.py:finish():172] shutting down file pusher
+2024-03-13 13:48:49,008 INFO    SenderThread:4209 [file_pusher.py:join():178] waiting for file pusher

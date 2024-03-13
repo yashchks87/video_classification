@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/home/paperspace/Documents/video_classification/notebooks/train_script.py", line 43, in <module>
+    partial_binary_fn(epochs = 30,
+  File "/home/paperspace/Documents/video_classification/notebooks/../scripts/train/train_binary.py", line 25, in train_binary_fn
+    model.load_state_dict(torch.load(load_model)['model_state_dict'], strict=False)
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: '_IncompatibleKeys' object has no attribute 'load_state_dict'
